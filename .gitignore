@@ -1,0 +1,6 @@
+venv/
+storage_state.json
+auth_token.txt
+turing_cookies_export.json
+turing_localstorage_export.json
+*.log
