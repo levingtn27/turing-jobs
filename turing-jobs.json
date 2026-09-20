@@ -4249,61 +4249,7 @@
       "plainUrl": "https://work.turing.com/jobs?jobId=101767",
       "referralUrl": "https://work.turing.com/r/xUlg76N8-F",
       "source": "turing"
-    },
-    {
-      "id": 101677,
-      "title": "SWE \u2013 Python Docker",
-      "description": "<p><strong>About the projects: </strong>we are building LLM evaluation and training datasets to train LLM to work on realistic software engineering problems. One of our approaches, in this project, is to build verifiable SWE tasks based on public repository histories in <a href=\"https://arxiv.org/abs/2310.06770\"><u>a synthetic approach with human-in-the-loop</u></a>; while expanding the dataset coverage to different types of tasks in terms of programming language, difficulty level, and etc.</p><p><br></p><p><strong>About the Role: </strong>We are looking for experienced software engineers (tech lead level) who are familiar with high-quality public GitHub repositories and can contribute to this project. This role involves hands-on software engineering work, including development environment automation, issue triaging, and evaluating test coverage and quality</p><p><br></p><p><strong>Why Join Us? </strong>Turing is one of the world\u2019s fastest-growing AI companies accelerating the advancement and deployment of powerful AI systems. You\u2019ll be at the forefront of evaluating how LLMs interact with real code, influencing the future of AI-assisted software development. This is a unique opportunity to blend practical software engineering with AI research.</p><p><br></p><p><strong>What does day-to-day look like</strong>:</p><ul>  <li>Analyze and triage GitHub issues across trending open-source libraries.</li>  <li>Set up and configure code repositories, including Dockerization and environment setup.</li>  <li>Evaluating unit test coverage and quality.</li>  <li>Modify and run codebases locally to assess LLM performance in bug-fixing scenarios.</li>  <li>Collaborate with researchers to design and identify repositories and issues that are challenging for LLMs.</li>  <li>Opportunities to lead a team of junior engineers to collaborate on projects.</li></ul><p><strong>Required Skills:</strong></p><ul>  <li>Minimum 3+ years of overall experience</li>  <li>Strong experience with at least one of the following languages: &nbsp;Python</li>  <li>Proficiency with Git, Docker, and basic software pipeline setup.</li>  <li>Ability to understand and navigate complex codebases.</li>  <li>Comfortable running, modifying, and testing real-world projects locally.</li>  <li>Experience contributing to or evaluating open-source projects is a plus.</li></ul><p><strong>Nice to Have:</strong></p><ul>  <li>Previous participation in LLM research or evaluation projects.</li>  <li>Experience building or testing developer tools or automation agents.</li></ul><p><strong>Perks of Freelancing With Turing:</strong></p><ul>  <li>Work in a fully remote environment.</li>  <li>Opportunity to work on cutting-edge AI projects with leading LLM companies.</li></ul><p><strong>Offer Details:</strong></p><ul>  <li><strong>Employment type &nbsp;</strong>: Contractor assignment (no medical/paid leave)</li>  <li><strong>Duration of contract </strong>: 3 month; [expected start date is next week]</li>  <li><strong>Location </strong>: India, Pakistan, Nigeria, Egypt, Ghana, Bangladesh, Turkey, Mexico</li></ul><p><strong>Pay Per Task :$100</strong></p>",
-      "oneLinerDescription": "Analyze GitHub issues and evaluate software quality for LLM tasks.",
-      "roleGroup": "Software development",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-08-20 18:43:28",
-      "jobCode": "v89dAoSxIEZi",
-      "featuredJob": false,
-      "skills": [
-        "Python"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=101677",
-      "referralUrl": "https://work.turing.com/r/nLQEvSM77k",
-      "source": "turing"
-    },
-    {
-      "id": 101521,
-      "title": "Senior Software Engineer \u2013 C++(LLM Evaluation & Repository Validation)",
-      "description": "<p><strong>About the projects: </strong>we are building LLM evaluation and training datasets to train LLM to work on realistic software engineering problems. One of our approaches, in this project, is to build verifiable SWE tasks based on public repository histories in <a href=\"https://arxiv.org/abs/2310.06770\"><u>a synthetic approach with human-in-the-loop</u></a>; while expanding the dataset coverage to different types of tasks in terms of programming language, difficulty level, and etc.</p><p><br></p><p><strong>About the Role: </strong>We are looking for experienced software engineers (tech lead level) who are familiar with high-quality public GitHub repositories and can contribute to this project. This role involves hands-on software engineering work, including development environment automation, issue triaging, and evaluating test coverage and quality</p><p><br></p><p><strong>Why Join Us? </strong>Turing is one of the world\u2019s fastest-growing AI companies accelerating the advancement and deployment of powerful AI systems. You\u2019ll be at the forefront of evaluating how LLMs interact with real code, influencing the future of AI-assisted software development. This is a unique opportunity to blend practical software engineering with AI research.</p><p><br></p><p><strong>What does day-to-day look like</strong>:</p><ul>  <li>Analyze and triage GitHub issues across trending open-source libraries.</li>  <li>Set up and configure code repositories, including Dockerization and environment setup.</li>  <li>Evaluating unit test coverage and quality.</li>  <li>Modify and run codebases locally to assess LLM performance in bug-fixing scenarios.</li>  <li>Collaborate with researchers to design and identify repositories and issues that are challenging for LLMs.</li>  <li>Opportunities to lead a team of junior engineers to collaborate on projects.</li></ul><p><strong>Required Skills:</strong></p><ul>  <li>Minimum 3+ years of overall experience</li>  <li>Strong experience with at least one of the following languages: &nbsp;C++</li>  <li>Proficiency with Git, Docker, and basic software pipeline setup.</li>  <li>Ability to understand and navigate complex codebases.</li>  <li>Comfortable running, modifying, and testing real-world projects locally.</li>  <li>Experience contributing to or evaluating open-source projects is a plus.</li></ul><p><strong>Nice to Have:</strong></p><ul>  <li>Previous participation in LLM research or evaluation projects.</li>  <li>Experience building or testing developer tools or automation agents.</li></ul><p><strong>Perks of Freelancing With Turing:</strong></p><ul>  <li>Work in a fully remote environment.</li>  <li>Opportunity to work on cutting-edge AI projects with leading LLM companies.</li></ul><p><strong>Offer Details:</strong></p><ul>  <li><strong>Commitments Required</strong>: At least 4 hours per day and minimum 40 hours per week with overlap of 4 hours with PST.&nbsp;</li>  <li><strong>Employment type &nbsp;</strong>: Contractor assignment (no medical/paid leave)</li>  <li><strong>Duration of contract </strong>: 1 month; [expected start date is next week]</li>  <li><strong>Location </strong>: India, Pakistan, Nigeria, Kenya, Egypt, Ghana, Bangladesh, Turkey, Mexico</li></ul><p><br></p>",
-      "oneLinerDescription": "Analyze GitHub issues and evaluate test coverage for LLM projects.",
-      "roleGroup": "Software development",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-08-20 15:48:27",
-      "jobCode": "QVQUqtgcZgBj",
-      "featuredJob": false,
-      "skills": [
-        "C++"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=101521",
-      "referralUrl": "https://work.turing.com/r/V9onw56Ma5",
-      "source": "turing"
-    },
-    {
-      "id": 101384,
-      "title": "Senior Management Consultants (LatAm)",
-      "description": "<p><strong>About Turing &nbsp;<br></strong>Turing is one of the world\u2019s fastest-growing AI companies, accelerating the advancement and deployment of powerful AI systems.</p><p>Turing helps customers in two ways: Working with the world\u2019s leading AI labs to advance frontier model capabilities in thinking, reasoning, coding, agentic behavior, multimodality, multilinguality, STEM, and frontier knowledge; and leveraging that work to build real-world AI systems that solve mission-critical priorities for companies.<br></p><p><br></p><p><strong>Role Overview</strong></p><p>We're looking for experienced Management Consultants to help train the next generation of AI systems that can reason like top-tier strategy consultants.</p><p>In this role, you'll leverage your consulting expertise to create, evaluate, and refine complex business scenarios that teach AI how to think through strategic problems, structure recommendations, develop business cases, and communicate executive-level insights. Rather than delivering client engagements, you'll apply your consulting judgment to improve the quality, accuracy, and practical value of AI-generated outputs.</p><p><br></p><p><strong>Requirements</strong></p><ul>  <li>8\u201315 years of strategy/management consulting experience at Engagement Manager to Principal level.</li>  <li>Top-tier or boutique consulting background; MBA or equivalent preferred.</li>  <li>Expert in strategy, operating-model design, and business-case structuring.</li>  <li>Proven experience leading engagements, managing teams, and ensuring deliverable quality.</li>  <li>Strong analytical and executive-writing skills to create, review, and improve complex AI-generated solutions.</li></ul><p><strong>Responsibilities</strong></p><ul>  <li>Produce high-difficulty expert tasks and gold-standard solutions in the functional area.&nbsp;</li>  <li>Review and calibrate team members' output and own day-to-day quality. &nbsp;</li>  <li>Escalate genuine edge cases and rubric ambiguities to the Functional SME (Expert) Lead.</li></ul><p><strong>Education &amp; Experience</strong></p><ul>  <li>Bachelor's degree or equivalent practical experience in any field.</li>  <li>Experience in AI evaluation, data annotation, content review, quality assurance, or a related analytical role is preferred but not required.</li></ul><p><strong>Offer Details:</strong></p><ul>  <li>Commitments Required: at least 4 hours per day and upto 40 hours per week with 4 hours of overlap with PST.</li>  <li>Engagement type: Contractor</li>  <li>Engagement Length: &nbsp;Up to 9 weeks</li></ul><p><strong>Evaluation Process</strong> -</p><ul>  <li>Shortlisted candidates will be sent a <strong>Job Interest Form</strong>.</li>  <li>Final selected candidates will be contacted with the next steps and onboarding requirements.</li></ul>",
-      "oneLinerDescription": "Create and refine complex business scenarios to enhance AI strategic reasoning.",
-      "roleGroup": "Finance",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-08-20 11:46:57",
-      "jobCode": "fV4GkvYximQu",
-      "featuredJob": false,
-      "skills": [
-        "Finance"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=101384",
-      "referralUrl": "https://work.turing.com/r/E_dKyjb2MD",
-      "source": "turing"
     }
   ],
-  "fetched_at": "2026-09-19T05:43:30Z"
+  "fetched_at": "2026-09-20T10:43:29Z"
 }
