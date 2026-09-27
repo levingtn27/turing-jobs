@@ -4699,25 +4699,7 @@
       "plainUrl": "https://work.turing.com/jobs?jobId=102990",
       "referralUrl": "https://work.turing.com/r/Vo6RmAY1bV",
       "source": "turing"
-    },
-    {
-      "id": 102926,
-      "title": "Domain Experts - Audio Engineer (REAPER /Ardour)",
-      "description": "<p><strong>About Turing</strong></p><p><br></p><p>Based in San Francisco, California, Turing is the world's leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprises transform AI from proof of concept into proprietary intelligence with systems that perform reliably, deliver measurable impact, and drive lasting results on the P&amp;L.</p><p><br></p><p><strong>Role Overview</strong></p><p><br></p><p>We are looking for an <strong>Audio Engineering Subject Matter Expert (SME)</strong> to help design the reusable templates that power these environments. Each template defines what an application can realistically do and provides the authentic project materials needed to create high-quality tasks.</p><p>Your expertise will help ensure that these environments reflect how professional audio engineers, producers, and sound designers actually work.</p><p><br></p><p><strong>Job Responsibilities</strong></p><ul>  <li>Map the real capabilities of audio applications, including supported formats, key workflows, processing operations, and export capabilities.</li>  <li>Define realistic audio workflows and document them in a structured format for the engineering team.</li>  <li>Create high-quality base assets for simulated tasks, including:<br>- Multi-track raw audio sessions<br>- REAPER and Ardour project files<br>- Effect chain and plugin presets<br>- Reference mastering targets<br>- Stem and mixdown specifications</li>  <li>Ensure all project materials are <strong>realistic, technically accurate, and internally consistent</strong>.</li>  <li>Complete representative tasks in the target applications and provide reference solutions demonstrating what a correct result looks like.</li>  <li>Explain the reasoning behind technical decisions \u2014 not simply whether an output is correct.</li>  <li>Work closely with engineers to translate professional audio workflows into measurable task requirements.</li></ul><p><strong>You will not be writing scoring code.</strong> Your role is to define what a technically correct and professionally realistic result looks like; engineers will implement the automated checks.</p><p><br></p><p><strong>Required Qualification:</strong></p><ul>  <li><strong>+5 years </strong>of professional experience in <strong>audio engineering, sound design, music production, mixing, or mastering</strong>.</li>  <li>Hands-on experience producing, mixing, or mastering <strong>real multi-track audio projects</strong>.</li>  <li><strong>Hands-on experience with REAPER or Ardour is mandatory.</strong></li>  <li>Strong understanding of <strong>audio routing, signal flow, effects processing, and VST/AU plugins</strong>.</li>  <li>Working knowledge of <strong>broadcast loudness standards</strong>, including EBU R128 and ITU-R BS.1770 / LUFS.</li>  <li>Ability to evaluate an audio project and clearly explain <strong>why a mix, stem, or export is technically correct</strong>.</li>  <li>Strong attention to detail and consistency across complex audio projects.</li>  <li>Clear written English and the ability to document technical workflows precisely.</li>  <li>Comfortable working independently and translating professional expertise into structured requirements.</li></ul><p><strong>Benefits</strong></p><ul>  <li>Opportunity to work on cutting-edge AI projects.</li>  <li>Competitive compensation.</li>  <li>Flexible working hours and remote work environment.</li></ul><p><strong>Offer Details:</strong></p><ul>  <li><strong>Commitments Required</strong>: 40 hours per week&nbsp;with at least 4 hours PST overlap</li>  <li><strong>Employment type</strong>: Contractor assignment (no medical/paid leave)</li>  <li><strong>Duration of contract</strong>: 5 weeks; imediate onboarding</li></ul>",
-      "oneLinerDescription": "Define realistic audio workflows and create high-quality project assets.",
-      "roleGroup": "Other",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-08-28 16:16:09",
-      "jobCode": "OEwst4PyNRPq",
-      "featuredJob": false,
-      "skills": [
-        "Sound and Audio"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=102926",
-      "referralUrl": "https://work.turing.com/r/e_xvkOWEsS",
-      "source": "turing"
     }
   ],
-  "fetched_at": "2026-09-27T16:05:27Z"
+  "fetched_at": "2026-09-27T20:05:25Z"
 }
