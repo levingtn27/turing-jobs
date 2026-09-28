@@ -2844,6 +2844,24 @@
       "source": "turing"
     },
     {
+      "id": 109098,
+      "title": "AI Systems Engineer - STEM Workflow",
+      "description": "<p>Turing is seeking a Senior AI Systems Engineer with deep expertise in multi-step agentic architecture to support a high-impact, exploratory mathematics research initiative. In this role, you will bridge pure mathematics and technical execution, designing and deploying complex AI agents capable of reasoning through advanced scientific and mathematical workflows.</p><p><strong>Key Responsibilities</strong></p><ul>  <li>Design, build, and optimize multi-step agentic workflows capable of multi-hop reasoning, hypothesis generation, and technical validation.</li>  <li>Collaborate closely with mathematical researchers to translate complex, abstract proofs into structured technical specifications and automated pipelines.</li>  <li>Develop reusable architectural frameworks, tooling, and memory systems for STEM-focused AI agents.</li>  <li>Evaluate and iterate on agent performance, ensuring high accuracy, reliability, and trace logic across execution steps.</li></ul><p><strong>Qualifications</strong></p><ul>  <li><strong>Technical Expertise:</strong> Proven track record of architecting and deploying production-grade, multi-step agentic systems (e.g., using frameworks like LangGraph, AutoGen, CrewAI, or custom orchestration).</li>  <li><strong>Domain Experience:</strong> Background building AI/ML applications within STEM domains (Mathematics, Physics, Computer Science, or Quantitative Finance).</li>  <li><strong>Core Skills:</strong> Advanced Python proficiency, experience with LLM orchestration, structured output generation, tool integration, and state management.</li>  <li><strong>Problem-Solving:</strong> Comfort working alongside subject-matter experts to translate dense academic material into modular software systems.</li></ul><p><strong>Offer Details:</strong></p><ul>  <li><strong>Commitments Required :</strong> Overlap of 4 hours with PST and 40 hrs/week</li>  <li><strong>Engagement type :</strong> Contractor assignment/freelancer (no medical/paid leave)</li>  <li><strong>Duration of contract</strong> : 4 weeks</li></ul><p><br></p>",
+      "oneLinerDescription": "Design and build AI workflows for advanced mathematical reasoning tasks.",
+      "roleGroup": "ML/Data Engineering",
+      "locationType": "remote",
+      "referralReward": null,
+      "createdDate": "2026-09-28 06:45:25",
+      "jobCode": "9uDxXyIR1kV9",
+      "featuredJob": false,
+      "skills": [
+        "Python"
+      ],
+      "plainUrl": "https://work.turing.com/jobs?jobId=109098",
+      "referralUrl": "https://work.turing.com/r/M6MgLFym49",
+      "source": "turing"
+    },
+    {
       "id": 109072,
       "title": "Domain Experts -Task Executors : Aerodynamics (Flow5)",
       "description": "<p><strong>About Turing:<br></strong>Turing is one of the world\u2019s fastest-growing AI companies, accelerating the advancement and deployment of powerful AI systems.</p><p>Turing helps customers in two ways: Working with the world\u2019s leading AI labs to advance frontier model capabilities in thinking, reasoning, coding, agentic behavior, multimodality, multilinguality, STEM, and frontier knowledge; and leveraging that work to build real-world AI systems that solve mission-critical priorities for companies.</p><p><br></p><p><strong>Role overview :</strong><br>As a Task Executor \u2013 Aerodynamics, you will use Flow5 v7 to complete assigned aerodynamic analysis workflows involving foils, wings, aircraft, hydrofoils, and sails. You will receive the required geometry files, project files, operating conditions, and execution steps, and you will follow them exactly. Your work may include modifying geometries, configuring analyses, generating conforming meshes, running Type 1 or Type 2 polars, and exporting the requested results. You will save all outputs using the specified names and locations, record your screen when required, and report any ambiguity without guessing or improvising.</p><p><br></p><p><strong>Job Responsibilities:</strong></p><ul>  <li>Open and inspect foil, plane, mesh, and project files in Flow5.</li>  <li>Build or modify foils, wings, planes, hydrofoils, and other assigned geometries.</li>  <li>Configure operating conditions, polar settings, geometry parameters, and mesh requirements.</li>  <li>Generate conforming meshes and run Type 1 or Type 2 polar analyses.</li>  <li>Save and export modified geometries, polar results, screenshots, and other requested outputs.</li>  <li>Record assigned tasks and report unexpected results, unclear instructions, or application mismatches.</li></ul><p><strong>Requirements:</strong></p><ul>  <li>Demonstrate hands-on experience with Flow5, XFoil, or XFLR5.</li>  <li>Configure aerodynamic analyses, run polar calculations, and generate meshes independently.</li>  <li>Understand airfoil files, span, chord, twist, polar settings, and mesh conformance at an operator level.</li>  <li>Follow detailed instructions precisely and enter all geometry and operating values exactly as provided.</li>  <li>Maintain strong attention to detail and avoid unrequested changes, extra runs, or assumptions.</li>  <li>Maintain a reliable remote setup for screen recording, file delivery, and clear written English communication.</li></ul><p><strong>Project Details :</strong></p><ul>  <li><strong>Project duration -</strong> 5 weeks (approx) with potential chances of extension</li>  <li><strong>Project type - </strong>Pay-per-task (PPT)</li>  <li><strong>AHT -</strong> 60 minutes (approx.)</li>  <li><strong>Engagement - </strong>Full time</li>  <li><strong>Estimated project start date - between </strong>28 september and 2 October (estimated)</li></ul><p><br></p><p><br></p>",
@@ -4701,5 +4719,5 @@
       "source": "turing"
     }
   ],
-  "fetched_at": "2026-09-28T04:04:59Z"
+  "fetched_at": "2026-09-28T08:05:31Z"
 }
