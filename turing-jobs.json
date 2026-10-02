@@ -4891,26 +4891,7 @@
       "plainUrl": "https://work.turing.com/jobs?jobId=103501",
       "referralUrl": "https://work.turing.com/r/vhQFYiAfW0",
       "source": "turing"
-    },
-    {
-      "id": 103478,
-      "title": "Agentic Coding Annotator - Online / Offline Tasks",
-      "description": "<h2>About Turing</h2><p>Turing is one of the world\u2019s fastest-growing AI companies, accelerating the advancement and deployment of powerful AI systems. Turing helps customers in two ways: working with the world\u2019s leading AI labs to advance frontier model capabilities in thinking, reasoning, coding, agentic behavior, multimodality, multilinguality, STEM, and frontier knowledge; and leveraging that work to build real-world AI systems that solve mission-critical priorities for companies.</p><p><br></p><h2>Role Overview</h2><p>We are looking for an experienced <strong>DevOps Engineer</strong> to build and operate GPU infrastructure and production LLM serving systems on <strong>Google Cloud Platform (GCP)</strong>. You will own infrastructure across the lifecycle\u2014from GPU provisioning and container orchestration to scalable model inference, observability, and cost optimization.</p><p><br></p><h2>What does day-to-day look like</h2><ul>  <li>Provision and manage GPU infrastructure on GCP using <strong>GKE, Compute Engine, Cloud Run</strong>, and related services.</li>  <li>Deploy, tune, and operate production LLM serving stacks using <strong>vLLM, Triton Inference Server, and Hugging Face Transformers</strong>.</li>  <li>Build containerized and serverless deployments with <strong>Docker, CI/CD, and Infrastructure as Code (IaC)</strong>.</li>  <li>Design and maintain reliable data pipelines supporting ML and inference workloads.</li>  <li>Implement observability, autoscaling, reliability, and cost optimization for GPU fleets and production inference services.</li></ul><h2>Requirements</h2><ul>  <li>Strong <strong>Python</strong> programming skills and hands-on experience building or operating production infrastructure.</li>  <li>Strong practical experience with <strong>GCP</strong>, including GKE, Cloud Run, GCS, Pub/Sub, Cloud Functions, or equivalent services.</li>  <li>Hands-on experience provisioning and operating <strong>GPU infrastructure</strong>, including CUDA/drivers, GPU node pools, quotas, and autoscaling.</li>  <li>Production experience serving <strong>LLMs using vLLM and/or Triton Inference Server</strong>, with strong Docker and container orchestration fundamentals.</li>  <li>Experience building <strong>data pipelines</strong> using Dataflow, Airflow/Cloud Composer, or similar technologies.</li></ul><h2>Perks of Freelancing With Turing</h2><ul>  <li>Work on cutting-edge AI projects with leading foundation model companies</li>  <li>Collaborate on high-impact work at the frontier of LLM evaluation and reasoning</li>  <li>Remote, flexible opportunities with global teams</li></ul><h2>Offer Details</h2><ul>  <li><strong>Commitments Required:</strong> 8 hours per day with a 4-hour overlap with PST.</li>  <li><strong>Employment Type:</strong> Contractor position (Note: this role does not include medical/paid leave).</li>  <li><strong>Duration of Contract:</strong> 2 months [expected start date is immediate].</li></ul><h2>Evaluation process</h2><ul>  <li>Profile review followed by an interview by delivery team (if required)</li></ul>",
-      "oneLinerDescription": "Provision and manage GPU infrastructure for AI model serving on GCP.",
-      "roleGroup": "Cloud & Infrastructure",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-09-02 06:04:08",
-      "jobCode": "SvZH6zpOkxj8",
-      "featuredJob": false,
-      "skills": [
-        "Python",
-        "Git & Docker"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=103478",
-      "referralUrl": "https://work.turing.com/r/w9TtmuSP84",
-      "source": "turing"
     }
   ],
-  "fetched_at": "2026-10-02T04:05:15Z"
+  "fetched_at": "2026-10-02T08:05:39Z"
 }
