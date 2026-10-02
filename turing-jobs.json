@@ -4818,46 +4818,7 @@
       "plainUrl": "https://work.turing.com/jobs?jobId=103667",
       "referralUrl": "https://work.turing.com/r/VgbqQ5vTO6",
       "source": "turing"
-    },
-    {
-      "id": 103622,
-      "title": "AI Systems Engineer - STEM Workflow",
-      "description": "<p>Turing is seeking a Senior AI Systems Engineer with deep expertise in multi-step agentic architecture to support a high-impact, exploratory mathematics research initiative. In this role, you will bridge pure mathematics and technical execution, designing and deploying complex AI agents capable of reasoning through advanced scientific and mathematical workflows.</p><p><strong>Key Responsibilities</strong></p><ul>  <li>Design, build, and optimize multi-step agentic workflows capable of multi-hop reasoning, hypothesis generation, and technical validation.</li>  <li>Collaborate closely with mathematical researchers to translate complex, abstract proofs into structured technical specifications and automated pipelines.</li>  <li>Develop reusable architectural frameworks, tooling, and memory systems for STEM-focused AI agents.</li>  <li>Evaluate and iterate on agent performance, ensuring high accuracy, reliability, and trace logic across execution steps.</li></ul><p><strong>Qualifications</strong></p><ul>  <li><strong>Technical Expertise:</strong> Proven track record of architecting and deploying production-grade, multi-step agentic systems (e.g., using frameworks like LangGraph, AutoGen, CrewAI, or custom orchestration).</li>  <li><strong>Domain Experience:</strong> Background building AI/ML applications within STEM domains (Mathematics, Physics, Computer Science, or Quantitative Finance).</li>  <li><strong>Core Skills:</strong> Advanced Python proficiency, experience with LLM orchestration, structured output generation, tool integration, and state management.</li>  <li><strong>Problem-Solving:</strong> Comfort working alongside subject-matter experts to translate dense academic material into modular software systems.</li></ul><p><strong>Offer Details:</strong></p><ul>  <li><strong>Commitments Required :</strong> Overlap of 4 hours with PST and 40 hrs/week</li>  <li><strong>Engagement type :</strong> Contractor assignment/freelancer (no medical/paid leave)</li>  <li><strong>Duration of contract</strong> : 4 weeks</li></ul><p><br></p>",
-      "oneLinerDescription": "Design and build AI workflows for advanced mathematical reasoning tasks.",
-      "roleGroup": "Science",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-09-02 17:52:06",
-      "jobCode": "BauBKTpYQW_Y",
-      "featuredJob": false,
-      "skills": [
-        "Python",
-        "PhD Maths",
-        "Grad Maths"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=103622",
-      "referralUrl": "https://work.turing.com/r/Jb84cNQ3Wp",
-      "source": "turing"
-    },
-    {
-      "id": 103620,
-      "title": "Finance Experts",
-      "description": "<p><strong>About Turing:<br></strong>Based in San Francisco, California, Turing is the world\u2019s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprises transform AI from proof of concept into proprietary intelligence with systems that perform reliably, deliver measurable impact, and drive lasting results on the P&amp;L. &nbsp;<br><br><strong>Role Overview:</strong></p><p>Seeking experienced Finance Experts and Reviewers to evaluate tasks related to finance and assess their quality, accuracy, relevance, clarity, and alignment with domain-specific standards.</p><p>Experts will review tasks across various finance topics and determine whether the questions and answers are accurate, well-structured, logically sound, and suitable for training data generation. The role will focus exclusively on reviewing and evaluating existing tasks; talent will<strong> not be </strong>required to create new tasks.<br><br></p><p><strong>Job Requirements -</strong></p><ul>  <li>Experience as a Finance Expert, Finance Reviewer, Financial Analyst, Accountant, or Auditor.</li>  <li>Strong knowledge of finance concepts and the ability to navigate diverse finance topics.</li>  <li>Ability to assess the accuracy, relevance, clarity, and quality of questions and answers.</li>  <li>Strong analytical, critical-thinking, and written communication skills.</li>  <li>Prior experience in training data generation or task review is preferred but not mandatory.</li></ul><p><strong>Project Details -</strong></p><ul>  <li>Project duration - 4 weeks, with potential opportunities for extension.</li>  <li>Immediate availability to start the project.</li>  <li>Commitment of 40 hours per week (with 4 hours PST Overlap)</li></ul><p><strong>Education &amp; Experience</strong></p><ul>  <li>Bachelor's degree or equivalent practical experience in any field.</li>  <li>Experience in AI evaluation, data annotation, content review, quality assurance, or a related analytical role is preferred but not required.</li></ul><p><strong>Evaluation Process</strong> -</p><ul>  <li>Completion of the <strong>Job Interest Form.</strong></li>  <li>Successful <strong>completion </strong>(and passing) of the Finance Expert Assessment.</li>  <li><strong>Profile screening</strong></li></ul>",
-      "oneLinerDescription": "Review finance tasks for accuracy and clarity in evaluations.",
-      "roleGroup": "Business",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-09-02 17:35:24",
-      "jobCode": "cEIKN23WD5jN",
-      "featuredJob": false,
-      "skills": [
-        "Finance",
-        "Finance"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=103620",
-      "referralUrl": "https://work.turing.com/r/_4AT7p7_3p",
-      "source": "turing"
     }
   ],
-  "fetched_at": "2026-10-02T16:05:44Z"
+  "fetched_at": "2026-10-02T20:05:34Z"
 }
