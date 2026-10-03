@@ -4700,67 +4700,7 @@
       "plainUrl": "https://work.turing.com/jobs?jobId=103863",
       "referralUrl": "https://work.turing.com/r/rfmob4K9Gq",
       "source": "turing"
-    },
-    {
-      "id": 103856,
-      "title": "Domain Expert: Electronics & EDA (KiCad)",
-      "description": "<p><strong>About Turing:</strong></p><p>Based in San Francisco, California, Turing is the world\u2019s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprises transform AI from proof of concept into proprietary intelligence with systems that perform reliably, deliver measurable impact, and drive lasting results on the P&amp;L.</p><p><br></p><p><strong>Role Overview:</strong></p><p>We are seeking a KiCad Task Executor with practical experience in electronic design automation, schematic capture, and multi-layer PCB layout. The role involves executing complex hardware-design tasks, recording human reference demonstrations, validating task solvability, identifying electrical edge cases, and testing automated grading rules.</p><p><br></p><p><strong>Target Applications and Toolchain</strong></p><p>KiCad, Eeschema, Pcbnew, Gerber, Design Rule Check (DRC), and the KiCad Python API.<br></p><p><strong>Job Responsibilities:</strong></p><ul>  <li>Complete multi-step schematic-wiring and PCB trace-routing tasks in remote Ubuntu/Linux desktop environments.</li>  <li>Record clean human execution trajectories, including keystrokes, mouse-routing actions, footprint placement, and DRC runs.</li>  <li>Identify ambiguous electrical specifications, missing footprints, clearance conflicts, and software-interface issues.</li>  <li>Route PCBs and wire schematics using alternative valid design paths to verify accurate automated grading.</li></ul><p><strong>Job Requirements:</strong></p><ul>  <li>Practical hands-on experience with KiCad for schematic capture and multi-layer PCB routing.</li>  <li>Strong knowledge of PCB layouts, schematic wiring, footprints, symbols, routing, and DRC error resolution.</li>  <li>Ability to navigate EDA tools efficiently and apply routing best practices.</li>  <li>High attention to pin assignments, component orientation, and clearance constraints.</li>  <li>Clear written English for submitting bug reports and execution feedback.</li>  <li>Experience working in remote Linux desktop environments, including noVNC or VNC &nbsp;is preferred</li>  <li>Experience in PCB layout review, hardware testing, or EDA benchmarking is preferred.</li></ul><p><br></p><p><strong>Engagement Details:</strong></p><ul>  <li>Engagement Type: <strong>Pay per task</strong></li>  <li>AHT (Average Handling Time) : <strong>60 minutes per task.</strong></li>  <li>Start Date: As soon as possible.</li>  <li>Duration: 5 weeks, with potential for extension.</li></ul><p><br></p><p><strong>Selection Process:</strong></p><ul>  <li>Please fill out the Job Interest Form. Kindly fill your details accurately</li>  <li>Profile Review</li></ul>",
-      "oneLinerDescription": "Execute complex PCB design tasks using KiCad and validate solutions.",
-      "roleGroup": "Engineering",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-09-03 19:55:50",
-      "jobCode": "q_2zCv7wFZt_",
-      "featuredJob": false,
-      "skills": [
-        "KiCad",
-        "Electronics",
-        "Layout Design",
-        "Embedded Systems"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=103856",
-      "referralUrl": "https://work.turing.com/r/48pjuq3Fhd",
-      "source": "turing"
-    },
-    {
-      "id": 103855,
-      "title": "Domain Expert: Mechanical Engineering (FreeCAD)",
-      "description": "<p><strong>About Turing:</strong></p><p>Based in San Francisco, California, Turing is the world\u2019s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprises transform AI from proof of concept into proprietary intelligence with systems that perform reliably, deliver measurable impact, and drive lasting results on the P&amp;L.</p><p><br></p><p><strong>Role Overview:</strong></p><p>We are seeking a FreeCAD Task Executor with practical experience in mechanical design and CAD workflows. The role involves executing complex modeling tasks, recording human reference demonstrations, validating task solvability, identifying design edge cases, and testing automated CAD verifiers.</p><p><br></p><p><strong>Target Applications and Toolchain</strong></p><p>FreeCAD, Part Design, Sketcher, TechDraw, Assembly, and STEP/IGES export.</p><p><br></p><p><strong>Job Responsibilities:</strong></p><ul>  <li>Execute multi-step parametric CAD tasks in FreeCAD using remote Ubuntu/Linux desktop environments.</li>  <li>Record clean human execution trajectories, including mouse clicks, sketch constraints, dimensions, and input parameters.</li>  <li>Identify ambiguous design briefs, under-constrained sketches, missing library models, and FreeCAD stability issues.</li>  <li>Execute alternative valid modeling paths to verify that automated grading scripts accept technically correct designs.</li></ul><p><strong>Job Requirements:</strong></p><ul>  <li>Practical hands-on experience with FreeCAD for 3D part modeling and technical drawing.</li>  <li>Strong knowledge of parametric CAD workflows, sketches, constraints, dimensions, and assemblies.</li>  <li>Ability to navigate CAD software efficiently and troubleshoot sketch constraints.</li>  <li>High attention to dimensional accuracy and design requirements.</li>  <li>Clear written English for submitting execution logs and solvability feedback.</li>  <li>Experience working in remote Linux desktop environments, including noVNC or VNC is preferred</li>  <li>Experience in CAD quality assurance, technical testing, or design benchmarking is preferred.</li></ul><p><br></p><p><strong>Engagement Details:</strong></p><ul>  <li>Engagement Type: <strong>Pay per task</strong></li>  <li>AHT (Average Handling Time) : <strong>60 minutes per task.</strong></li>  <li>Start Date: As soon as possible.</li>  <li>Duration: 5 weeks, with potential for extension.</li></ul><p><br></p><p><strong>Selection Process:</strong></p><ul>  <li>Please fill out the Job Interest Form. Kindly fill your details accurately</li>  <li>Profile Review</li></ul>",
-      "oneLinerDescription": "Execute complex 3D modeling tasks using FreeCAD for mechanical design.",
-      "roleGroup": "Engineering",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-09-03 19:55:47",
-      "jobCode": "rl3yj5tEzn6R",
-      "featuredJob": false,
-      "skills": [
-        "3D Graphics",
-        "Product Design",
-        "Assembly"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=103855",
-      "referralUrl": "https://work.turing.com/r/m6JscPmLK4",
-      "source": "turing"
-    },
-    {
-      "id": 103854,
-      "title": "Domain Expert: Research & Publishing (LaTeX / Overleaf)",
-      "description": "<p><strong>About Turing:</strong></p><p>Based in San Francisco, California, Turing is the world\u2019s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprises transform AI from proof of concept into proprietary intelligence with systems that perform reliably, deliver measurable impact, and drive lasting results on the P&amp;L.<br><br><strong>Role Overview:</strong></p><p>We are seeking an Overleaf/LaTeX Task Executor to perform hands-on typesetting, academic publishing, and research-document tasks. The role involves executing complex workflows, recording human reference demonstrations, validating task solvability, identifying edge cases, and testing automated compilation verifiers.<br><br><strong>Target Applications and Toolchain</strong></p><p>Overleaf, LaTeX, pdfLaTeX, BibTeX, TeXstudio, and Zotero.</p><p><br></p><p><strong>Job Responsibilities:</strong></p><ul>  <li>Execute multi-step document typesetting, citation-resolution, and mathematical-equation formatting tasks.</li>  <li>Record clean human execution trajectories, including keystrokes, syntax edits, bibliography matching, and compilation runs.</li>  <li>Identify broken package dependencies, ambiguous citation keys, malformed BibTeX entries, and compilation issues.</li>  <li>Test alternative valid LaTeX packages and formatting methods to verify that automated graders accept valid outputs.</li></ul><p><br></p><p><strong>Job Requirements:</strong></p><ul>  <li>Practical hands-on experience with LaTeX and Overleaf for scientific or academic document preparation.</li>  <li>Strong knowledge of LaTeX syntax, package debugging, and compilation error resolution.</li>  <li>High attention to mathematical formatting, citation accuracy, and typography.</li>  <li>Clear written English for submitting bug reports and execution feedback.</li>  <li>Experience with Zotero or BibTeX reference managers is preferred</li>  <li>Experience in academic copyediting, proofreading, or technical publication quality assurance preferred.<br></li></ul><p><strong>Engagement Details:</strong></p><ul>  <li>Engagement Type: <strong>Pay per task</strong></li>  <li>AHT (Average Handling Time) : <strong>60 minutes per task.</strong></li>  <li>Start Date: As soon as possible.</li>  <li>Duration: 5 weeks, with potential for extension.</li></ul><p><br></p><p><strong>Selection Process:</strong></p><ul>  <li>Please fill out the Job Interest Form. Kindly fill your details accurately</li>  <li>Profile Review<br></li></ul>",
-      "oneLinerDescription": "Execute complex LaTeX typesetting and academic publishing tasks efficiently.",
-      "roleGroup": "Other",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-09-03 19:55:45",
-      "jobCode": "JAymaO8UokYd",
-      "featuredJob": false,
-      "skills": [
-        "Latex",
-        "Technical Writing"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=103854",
-      "referralUrl": "https://work.turing.com/r/U5TWSyT70u",
-      "source": "turing"
     }
   ],
-  "fetched_at": "2026-10-03T16:05:07Z"
+  "fetched_at": "2026-10-03T20:05:22Z"
 }
