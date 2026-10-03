@@ -4796,29 +4796,7 @@
       "plainUrl": "https://work.turing.com/jobs?jobId=103781",
       "referralUrl": "https://work.turing.com/r/ogiNYW7Fxl",
       "source": "turing"
-    },
-    {
-      "id": 103667,
-      "title": "Business Analyst",
-      "description": "<h1><strong>Business / Product Analyst</strong></h1><p><strong>FULLTIME</strong></p><p><strong>Location: Hyderabad</strong></p><h2><strong>Position Overview</strong></h2><p>We are a global leader in commercial real estate services and investment, advising owners, investors, and occupiers across every stage of the property lifecycle. With decades of expertise spanning leasing, capital markets, valuations, and property management, we are known for the scale and quality of our data, the depth of our market insight, and our commitment to putting reliable information in the hands of our clients and our people.</p><p>A large and growing volume of data is flowing into our system of record. Today it sits in a queue for manual review before it is approved and merged, and the team is working toward an agentic framework that can automate parts of this review over time.</p><p>We are looking for a <strong>Business / Product Analyst </strong>who understands data from a business perspective, not a Data Engineer or Data Architect. This role is ideal for someone who can look at a schema independently, understand the underlying business entities, and proactively surface patterns and issues, rather than waiting to be told which fields or metrics to pull.</p><p>The ideal candidate has experience exploring large, imperfect datasets, is comfortable with SQL and exploratory data analysis, and can partner with existing engineers and visualization developers for the technical build-out.</p><h2><strong>What You'll Do</strong></h2><ul>  <li>Partner with Delivery leadership and existing engineers to understand the data schema, key business entities, and current review process.</li>  <li>Analyze current-state data quality involving:    <ul>      <li>Coverage and completion by field, entity type, and asset class</li>      <li>Cross-source data conflicts (e.g. one source showing a property's net rentable area as 1M sq ft, while another source records a lease of 1.2M sq ft against that same property)</li>      <li>Exceptions and anomalies that fall outside expected patterns</li>    </ul>  </li>  <li>Translate business requirements and findings into:    <ul>      <li>Clusters and flags that group related data issues into repeatable patterns</li>      <li>Clear visuals and summaries for business and technical stakeholders</li>      <li>Rules defining what should route to human review vs. what can be auto-corrected</li>      <li>Business process flows</li>      <li>User stories</li>      <li>Acceptance criteria</li>      <li>Data requirements</li>    </ul>  </li>  <li>Facilitate working sessions with business and technical stakeholders to validate findings and priorities.</li>  <li>Work to query and visualize data, writing basic queries themselves and relying on the broader team for heavier technical lifting.</li>  <li>Maintain traceability between identified data issues, the rules they generate, and the resulting workflow behavior.</li>  <li>Document data quality findings and recommend improvements to strengthen coverage and reduce manual review effort.</li>  <li>Use AI productivity tools (ChatGPT, Microsoft Copilot, Gemini, etc.) to accelerate documentation, analysis, summarization, and research while validating outputs for accuracy and compliance.</li></ul><h2><strong>What We're Looking For</strong></h2><ul>  <li>8+ years of experience as a Business Analyst, Product Analyst, or Data/Functional Analyst delivering data quality, data governance, or data onboarding work.</li>  <li>Excellent requirements gathering, process mapping, and stakeholder management skills.</li>  <li>Experience with the following:    <ul>      <li>Data coverage or completeness analysis</li>      <li>Data reconciliation or conflict resolution across sources</li>      <li>Exploratory data analysis and clustering</li>      <li>Data quality reporting or dashboarding</li>    </ul>  </li>  <li>Working SQL skills, comfortable enough to query and explore data directly.</li>  <li>Comfortable working with engineers and discussing:    <ul>      <li>Schemas and data models</li>      <li>Query logic and basic data flows</li>      <li>Visualization tooling</li>    </ul>  </li>  <li>Strong analytical thinking with the ability to identify data gaps and operational risk.</li>  <li>Excellent written and verbal communication skills.</li>  <li>Ability to work independently to scope and self-direct analysis, rather than needing fully specified requirements.</li></ul><h2><strong>Nice to Have</strong></h2><ul>  <li>Domain familiarity with real estate, lease, or asset data.</li>  <li>Experience supporting data onboarding, master data management, or system-of-record migration efforts.</li>  <li>Familiarity with Agile delivery methodologies.</li>  <li>Exposure to the design or use of agentic / AI-driven workflows for data review and automation.</li></ul>",
-      "oneLinerDescription": "Analyze data quality and identify patterns to improve business processes.",
-      "roleGroup": "Analyst",
-      "locationType": "on-site",
-      "referralReward": null,
-      "createdDate": "2026-09-03 08:37:49",
-      "jobCode": "i1R3lPMYS8Ie",
-      "featuredJob": false,
-      "skills": [
-        "Business Analysis",
-        "Data Analysis",
-        "Data Governance",
-        "Data Management",
-        "SQL"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=103667",
-      "referralUrl": "https://work.turing.com/r/VgbqQ5vTO6",
-      "source": "turing"
     }
   ],
-  "fetched_at": "2026-10-03T08:05:08Z"
+  "fetched_at": "2026-10-03T12:05:10Z"
 }
