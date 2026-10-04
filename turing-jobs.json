@@ -4680,27 +4680,7 @@
       "plainUrl": "https://work.turing.com/jobs?jobId=103973",
       "referralUrl": "https://work.turing.com/r/YXsChkIFY4",
       "source": "turing"
-    },
-    {
-      "id": 103863,
-      "title": "Domain Expert: Mechanical Engineering (FreeCAD)",
-      "description": "<p><strong>About Turing:</strong></p><p>Based in San Francisco, California, Turing is the world\u2019s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprises transform AI from proof of concept into proprietary intelligence with systems that perform reliably, deliver measurable impact, and drive lasting results on the P&amp;L.</p><p><br></p><p><strong>Role Overview:</strong></p><p>We are seeking a FreeCAD Task Executor with practical experience in mechanical design and CAD workflows. The role involves executing complex modeling tasks, recording human reference demonstrations, validating task solvability, identifying design edge cases, and testing automated CAD verifiers.</p><p><br></p><p><strong>Target Applications and Toolchain</strong></p><p>FreeCAD, Part Design, Sketcher, TechDraw, Assembly, and STEP/IGES export.</p><p><br></p><p><strong>Job Responsibilities:</strong></p><ul>  <li>Execute multi-step parametric CAD tasks in FreeCAD using remote Ubuntu/Linux desktop environments.</li>  <li>Record clean human execution trajectories, including mouse clicks, sketch constraints, dimensions, and input parameters.</li>  <li>Identify ambiguous design briefs, under-constrained sketches, missing library models, and FreeCAD stability issues.</li>  <li>Execute alternative valid modeling paths to verify that automated grading scripts accept technically correct designs.</li></ul><p><strong>Job Requirements:</strong></p><ul>  <li>Practical hands-on experience with FreeCAD for 3D part modeling and technical drawing.</li>  <li>Strong knowledge of parametric CAD workflows, sketches, constraints, dimensions, and assemblies.</li>  <li>Ability to navigate CAD software efficiently and troubleshoot sketch constraints.</li>  <li>High attention to dimensional accuracy and design requirements.</li>  <li>Clear written English for submitting execution logs and solvability feedback.</li>  <li>Experience working in remote Linux desktop environments, including noVNC or VNC is preferred</li>  <li>Experience in CAD quality assurance, technical testing, or design benchmarking is preferred.</li></ul><p><br></p><p><strong>Engagement Details:</strong></p><ul>  <li>Engagement Type: <strong>Pay per task</strong></li>  <li>AHT (Average Handling Time) : <strong>60 minutes per task.</strong></li>  <li>Start Date: As soon as possible.</li>  <li>Duration: 5 weeks, with potential for extension.</li></ul><p><br></p><p><strong>Selection Process:</strong></p><ul>  <li>Please fill out the Job Interest Form. Kindly fill your details accurately</li>  <li>Profile Review</li></ul>",
-      "oneLinerDescription": "Execute complex CAD tasks in FreeCAD and validate design solutions.",
-      "roleGroup": "Engineering",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-09-04 08:43:07",
-      "jobCode": "4thDkeIlapF7",
-      "featuredJob": false,
-      "skills": [
-        "3D Graphics",
-        "Product Design",
-        "Assembly"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=103863",
-      "referralUrl": "https://work.turing.com/r/rfmob4K9Gq",
-      "source": "turing"
     }
   ],
-  "fetched_at": "2026-10-04T08:05:21Z"
+  "fetched_at": "2026-10-04T12:05:20Z"
 }
