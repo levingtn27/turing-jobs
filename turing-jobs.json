@@ -2351,24 +2351,6 @@
       "source": "turing"
     },
     {
-      "id": 104482,
-      "title": "Video Annotator",
-      "description": "<p><strong>About Turing:<br></strong>Based in San Francisco, California, Turing is the world\u2019s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprises transform AI from proof of concept into proprietary intelligence with systems that perform reliably, deliver measurable impact, and drive lasting results on the P&amp;L.</p><p><br></p><p><strong>Role Overview</strong></p><p>We're looking for detail-oriented video annotators to support a shot boundary detection project. Annotators will watch video clips, identify where shots begin and end, classify transition types (cuts, fades, dissolves, wipes), and group shots into scene buckets with category labels.</p><p><br></p><p><strong>Job Responsibilities</strong></p><ul>  <li>Watch video clips frame-by-frame and identify all shot boundaries</li>  <li>Create a \"Shot Card\" for each shot, capturing start/end frames</li>  <li>Identify and label the shot transition type and subtype (cut, fade, dissolve, wipe, etc.)</li>  <li>Group shot cards into scene buckets based on narrative/event continuity</li>  <li>Classify each video clip and scene bucket by category (e.g., TV-Streaming/Drama, Education/Documentary, Gaming/Sci-Fi, Podcast/Lifestyle)</li>  <li>Maintain consistency and accuracy across a high volume of annotations</li>  <li>Follow detailed labeling guidelines and flag edge cases for review</li></ul><p><strong>Job Requirements</strong></p><ul>  <li>1+ year of experience in video/film editing, content creation, or video production</li>  <li>Strong understanding of shot composition, editing techniques, and transition types</li>  <li>Sharp attention to detail and ability to distinguish subtle visual cues (e.g., panning/zooming vs. an actual shot change)</li>  <li>Comfortable working with annotation tools and following structured labeling workflows</li>  <li>Ability to work independently and meet quality/throughput targets</li>  <li>Good written communication for documenting edge cases or ambiguous calls</li>  <li>Nice to Have:</li></ul><p><strong>Nice to have Qualification:</strong></p><ul>  <li>Background in film studies, cinematography, or media production</li>  <li>Prior experience with data annotation or labeling projects</li>  <li>Familiarity with different genres (drama, documentary, gaming, podcast/lifestyle content)</li></ul><p><strong>Benefits</strong></p><ul>  <li>Opportunity to work on cutting-edge AI projects.</li>  <li>Competitive compensation.</li>  <li>Flexible working hours and remote work environment.</li></ul><p><strong>Application Process</strong></p><ul>  <li>Shortlisted candidates will complete an assessment.</li>  <li>Once the assessment is cleared, candidates can start.</li></ul>",
-      "oneLinerDescription": "Watch and label video clips to identify shot boundaries and transitions.",
-      "roleGroup": "Media & Communication",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-09-08 17:32:19",
-      "jobCode": "_QLhbIEKuYXf",
-      "featuredJob": false,
-      "skills": [
-        "Video"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=104482",
-      "referralUrl": "https://work.turing.com/r/d02Mt1dMKX",
-      "source": "turing"
-    },
-    {
       "id": 107800,
       "title": "Senior Software Engineer - Python and JavaScript",
       "description": "<h3>About Turing</h3><p>Turing is one of the world's leading AGI infrastructure companies, working with frontier AI labs to accelerate model development through high-quality training data, evaluations, and engineering talent.</p><h3>About the Role</h3><p>We are looking for experienced software engineers with strong technical leadership skills and hands-on experience working with high-quality public GitHub repositories. In this role, you will analyze real-world codebases, configure development environments, triage issues, evaluate test quality, and assess how effectively LLMs solve software engineering tasks.</p><p>This is an opportunity to combine practical software engineering with AI research and contribute to the development of next-generation coding agents.</p><h3>What You\u2019ll Do</h3><ul>  <li>Analyze and triage issues across popular open-source repositories.</li>  <li>Set up and configure development environments for real-world codebases.</li>  <li>Dockerize repositories and establish reliable local execution workflows.</li>  <li>Run, modify, debug, and test projects locally.</li>  <li>Evaluate unit test coverage, reliability, and overall test quality.</li>  <li>Assess LLM performance on bug-fixing and software engineering tasks.</li>  <li>Identify challenging repositories and issues for AI evaluation benchmarks.</li>  <li>Collaborate with researchers and engineers to design high-quality evaluation scenarios.</li>  <li>Review code and provide technical guidance to junior engineers.</li>  <li>Lead or coordinate small teams when required.</li></ul><h3>Required Qualifications</h3><ul>  <li>5+ years of professional software engineering experience.</li>  <li>Strong proficiency in &nbsp;Python and JavaScirpt.</li>  <li>Practical experience with Git and Docker.</li>  <li>Basic understanding of software development pipelines and CI workflows.</li>  <li>Ability to understand, navigate, and modify complex codebases.</li>  <li>Experience running and testing real-world software projects locally.</li>  <li>Strong debugging, code review, and problem-solving skills.</li>  <li>Ability to work independently and communicate technical findings clearly.</li></ul><h3>Offer Details</h3><ul>  <li>Commitments required: 40 hours per week with 4 hours/ day overlap with PST</li>  <li>Engagement type: Contractor</li>  <li>Duration of contract: 3 months</li></ul>",
@@ -2705,6 +2687,25 @@
       ],
       "plainUrl": "https://work.turing.com/jobs?jobId=104644",
       "referralUrl": "https://work.turing.com/r/voYL-7Ya6D",
+      "source": "turing"
+    },
+    {
+      "id": 111727,
+      "title": "Software Engineer \u2013 Agentic AI / Data Cloud (Python/Go)",
+      "description": "<p>We are looking for Software Engineers to work with a leading Frontier LLM Lab to help accelerate their <strong>Agentic Data Cloud roadmap</strong> by building and scaling tools for next-generation AI-powered data systems. You will work on developing MCP tools, improving AI-assisted developer workflows, and expanding platform capabilities across the Data Cloud ecosystem.</p><p><br></p><p><strong>Key Responsibilities</strong></p><ul>  <li>Build and enhance <strong>MCP tools</strong> for both proprietary and open-source environments</li>  <li>Expand <strong>test coverage</strong> for tools used by AI coding assistants (e.g., Gemini CLI, Claude Code)</li>  <li>Refactor, maintain, and improve existing <strong>test frameworks and codebases</strong></li>  <li>Convert technical blogs into <strong>production-ready sample code and documentation</strong></li>  <li>Develop <strong>real-world data applications (e.g., using QueryData)</strong> to support product R&amp;D and experimentation</li>  <li>Collaborate with cross-functional teams to accelerate adoption of agentic AI capabilities</li></ul><p><strong>Must-Have Requirements</strong></p><ul>  <li>Minimum of 4\u20138 years of software engineering experience</li>  <li>Strong proficiency in <strong>Python or Go</strong> (ideally both)</li>  <li>Solid experience with <strong>SQL (intermediate minimum)</strong></li>  <li>Prior experience working in <strong>Google3 / Google engineering environments</strong></li>  <li>Experience building or contributing to <strong>agentic AI systems</strong></li>  <li>Hands-on experience with <strong>AI coding tools</strong> (e.g., Claude Code, Gemini CLI)</li>  <li>Strong <strong>coding, testing, and debugging skills</strong></li>  <li>Good <strong>technical writing and documentation skills</strong></li></ul><p><strong>Nice-to-Have</strong></p><ul>  <li>Experience contributing to <strong>open-source projects on GitHub</strong> (at least some team members expected)</li>  <li>Advanced SQL expertise (preferred for some team members)</li></ul><p><strong>Offer details</strong></p><ul>  <li>Commitments required: 40 hours per week with overlap with PST</li>  <li>Engagement type: Contractor</li>  <li>Duration of contract: 6 months (expected start date is 1st week of Jun, 2026)</li></ul>",
+      "oneLinerDescription": "Build and enhance tools for AI-powered data systems using Python or Go.",
+      "roleGroup": "Software development",
+      "locationType": "remote",
+      "referralReward": null,
+      "createdDate": "2026-10-08 19:36:41",
+      "jobCode": "oYVMSGUDfASy",
+      "featuredJob": false,
+      "skills": [
+        "QA",
+        "Software Testing"
+      ],
+      "plainUrl": "https://work.turing.com/jobs?jobId=111727",
+      "referralUrl": "https://work.turing.com/r/mxSdYO9sm2",
       "source": "turing"
     },
     {
@@ -4843,5 +4844,5 @@
       "source": "turing"
     }
   ],
-  "fetched_at": "2026-10-08T16:05:42Z"
+  "fetched_at": "2026-10-08T20:05:26Z"
 }
