@@ -2294,6 +2294,26 @@
       "source": "turing"
     },
     {
+      "id": 111518,
+      "title": "Finance Expert (US based)",
+      "description": "<p><strong>About Turing:<br></strong><br>Based in San Francisco, California, Turing is the world\u2019s leading <strong>research accelerator </strong>for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprises transform AI from proof of concept into <strong>proprietary intelligence </strong>with systems that perform reliably, deliver measurable impact, and drive lasting results on the P&amp;L<strong><br></strong></p><p><strong>Role overview</strong>:</p><p>Turing is looking for Experts in finance to work with our researchers to improve performance of AI models. We are looking for experts across a range of topics including capital markets, portfolio management, research, trading, quant, investment banking, private equity, corporate finance, accounting, and others. If you enjoy solving complex problems in finance and are interested in working with AI systems, please apply. No prior AI experience is required.<br></p><p><strong>What does day-to-day look like:</strong></p><ul>  <li>Evaluate LLM models for areas of finance where models do not perform well.</li>  <li>Create rubrics to assess model capabilities on specific areas of your finance expertise (such as deal analysis, M&amp;A assessments, and more).</li>  <li>Collaborate with AI researchers and fellow finance experts to shape training methods, evaluation strategies, and benchmarks.</li></ul><p><strong>Requirements:</strong></p><ul>  <li>2+ years experience in Capital Markets, Portfolio Management, Research, Trading, Quant, Investment Banking, Private Equity, Venture Capital, Growth Equity, FP&amp;A, Accounting, or Financial Consulting.</li>  <li>Strong grasp of financial concepts (investment analysis, resarch, forecasting, revenue builds, corporate finance, asset management, risk management, etc.) based on your domain of expertise.</li>  <li>Excellent English written communication.</li></ul><p><strong>Bonuses (not at all necessary):</strong></p><ul>  <li>CFA (Level I/II/III) or CA/CPA/MBA in Finance.</li></ul><p><strong>Perks of freelancing with Turing:</strong></p><ul>  <li>Work on the cutting edge of AI and finance.</li>  <li>Fully remote and flexible work environment.</li>  <li>Competitive hourly compensation of ~$100+/hour depending on experience.</li></ul><p><strong>Offer Details:</strong></p><ul>  <li>Commitment: Flexible, 10\u201330 hrs/week.</li>  <li>Duration: ~1 month, with the possibility of extension based on performance and project needs.</li></ul>",
+      "oneLinerDescription": "Evaluate AI models for finance performance and provide expert insights.",
+      "roleGroup": "Finance",
+      "locationType": "remote",
+      "referralReward": null,
+      "createdDate": "2026-10-08 05:43:01",
+      "jobCode": "fCrnpJJe-K-M",
+      "featuredJob": false,
+      "skills": [
+        "Critical Thinking",
+        "Problem Solving",
+        "Finance"
+      ],
+      "plainUrl": "https://work.turing.com/jobs?jobId=111518",
+      "referralUrl": "https://work.turing.com/r/FRmb26cojP",
+      "source": "turing"
+    },
+    {
       "id": 108075,
       "title": "BA - Text Situated Alignment Generalist Role",
       "description": "<p><strong>About Turing:<br></strong>Turing is one of the world\u2019s fastest-growing AI companies, accelerating the advancement and deployment of powerful AI systems.</p><p>Turing helps customers in two ways: Working with the world\u2019s leading AI labs to advance frontier model capabilities in thinking, reasoning, coding, agentic behavior, multimodality, multilinguality, STEM, and frontier knowledge; and leveraging that work to build real-world AI systems that solve mission-critical priorities for companies.</p><p><br></p><p><strong>Role overview :</strong><br>The Text Situated Alignment Generalist \u2013 BA role supports a <strong>short-term human-AI interaction evaluation pilot </strong>designed to assess whether providing social context before a user\u2019s request helps a language model generate more relevant, personalized, and user-aligned advice. Contributors create realistic, ongoing social scenarios, interact with the model under different conditions, and evaluate the quality of its responses. The role is suitable for intelligent, creative, and English-proficient individuals with experience in human-AI interaction, data annotation, content evaluation, or similar projects.</p><p><br></p><p><strong>Job Responsibilities:</strong></p><ul>  <li>Create realistic and ongoing social scenarios involving relevant personal, professional, or interpersonal context.</li>  <li>Interact with the language model under the assigned evaluation conditions.</li>  <li>Evaluate model responses for relevance, usefulness, personalization, clarity, and alignment with the provided context.</li>  <li>Explain the reasoning behind each rating through clear and detailed written feedback.</li>  <li>Follow project guidelines and complete assigned tasks within the required timeline.</li></ul><p><strong>Requirements:</strong></p><ul>  <li>Demonstrate strong written English proficiency and clear communication skills.</li>  <li>Possess experience in human-AI interaction, data annotation, image/video annotation, content evaluation, or similar projects.</li>  <li>Apply creative and analytical thinking when developing realistic social scenarios.</li>  <li>Understand nuanced interpersonal situations and evaluate responses objectively.</li>  <li><strong>Preferred background:</strong> Experience in <strong>Business Analysis, human-AI interaction, data annotation, image/video annotation, content evaluation, or similar analytical projects.</strong></li></ul><p><strong>Project Details :</strong></p><ul>  <li><strong>Project duration - </strong>2-3 weeks (short term project)</li>  <li><strong>Project type - </strong>Pay-per-task (PPT)</li>  <li><strong>AHT -</strong> 60 minutes (approx.)</li>  <li><strong>Engagement - </strong>Full time</li>  <li><strong>Estimated project start date - </strong>28 september (estimated)</li></ul><p><br></p><p><br></p>",
@@ -4828,5 +4848,5 @@
       "source": "turing"
     }
   ],
-  "fetched_at": "2026-10-08T04:05:30Z"
+  "fetched_at": "2026-10-08T08:05:40Z"
 }
