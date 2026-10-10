@@ -4890,63 +4890,7 @@
       "plainUrl": "https://work.turing.com/jobs?jobId=105642",
       "referralUrl": "https://work.turing.com/r/G7CMdn48mI",
       "source": "turing"
-    },
-    {
-      "id": 105404,
-      "title": "Software Engineer with Python & Docker experience",
-      "description": "<h1><strong>Urgent hire: ASAP start, 4 week contract. Applications reviewed on a rolling basis, apply early.</strong></h1><p><br></p><h2>Engagement details</h2><ul>  <li><strong>Engagement type:</strong> Contractor, pay per task</li>  <li><strong>Payment:</strong> $300 per approved task</li>  <li><strong>Commitment:</strong> Minimum of 1 completed and approved task per day</li>  <li><strong>No cap on tasks:</strong> Complete as many as you can until the pipeline is exhausted</li>  <li><strong>Duration:</strong> 4 weeks, starting immediately</li></ul><h3><strong>About Turing &amp; Role</strong></h3><p>Turing is one of the world's leading AGI infrastructure companies, working with frontier AI labs to accelerate model development through high-quality training data, evaluations, and engineering talent. We are staffing a frontier AI data initiative building the infrastructure and training data used to develop and evaluate AI agents. You will be assigned to one of two tracks: connectors or tasks.</p><h3><strong>Responsibilities</strong></h3><ul>  <li>Use AI coding agents throughout development, QA, and validation</li>  <li>Participate in onboarding, calibration, and quality reviews; deliver to the quality bar on agreed milestones</li>  <li>Project runs on two tracks:</li>  <li><strong>Connecters track:</strong>    <ul>      <li>Build Python backend applications that replicate existing SaaS tools (Slack, Linear, Jira, Notion, Gmail, wikis)</li>      <li>Test and validate connectors so each behaves faithfully like the system it emulates; extend existing connectors and build new ones within agreed timeframes.</li>    </ul>  </li>  <li><strong>Task track:</strong>    <ul>      <li>Mine data and workflows to identify candidates for long-horizon task development, and author realistic tasks from them</li>      <li>Verify task quality, realism, and correctness through structured QA; write evaluation rubrics defining correct, partially correct, and deficient work</li>    </ul>  </li></ul><h2><strong>Requirements</strong></h2><ul>  <li>3+ years of backend development experience with strong Python (FastAPI, Flask, or Django)</li>  <li>Git, Docker, and pipeline basics, with solid testing and code-quality practices</li>  <li>Experience building scalable backends, REST APIs, and microservices</li>  <li>Daily use of AI coding assistants (Claude Code, Codex, Cursor, GitHub Copilot, or similar)</li></ul>",
-      "oneLinerDescription": "Build Python backend applications that replicate existing SaaS tools.",
-      "roleGroup": "Software development",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-09-10 17:41:12",
-      "jobCode": "fGOfqr_sH_Kc",
-      "featuredJob": false,
-      "skills": [
-        "Python",
-        "Docker"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=105404",
-      "referralUrl": "https://work.turing.com/r/rIqfCoTxj0",
-      "source": "turing"
-    },
-    {
-      "id": 105386,
-      "title": "Electrical Engineering",
-      "description": "<p><strong>About Turing:</strong></p><p>Based in San Francisco, California, Turing is the world's leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprises transform AI from proof of concept into proprietary intelligence with systems that perform reliably, deliver measurable impact, and drive lasting results on the P&amp;L.</p><p><br></p><p><strong>Role Overview:</strong></p><p>We are seeking experienced Aerospace / Flight-Dynamics Engineer to author aero/flight tasks in OpenVSP, XFLR5, FlightGear+JSBSim, OpenRocket and QGroundControl; build golden geometries/mission plans and score geometry/route/airframe files.</p><p><br></p><p><strong>Key Responsibilities:</strong></p><ul>  <li>Author aero/flight tasks and validate designs using industry-standard tools (OpenVSP, XFLR5, FlightGear+JSBSim, OpenRocket and QGroundControl)</li>  <li>Develop realistic engineering problem statements, simulation models, calculations, schematics, and supporting technical assets.</li>  <li>Build golden geometries/mission plans and score geometry/route/airframe files.</li>  <li>Define inputs, assumptions, constraints, operating conditions, output metrics, and objective acceptance criteria.</li>  <li>Validate results through analytical checks and review other engineers\u2019 submissions for technical correctness and completeness.</li>  <li>Translate technical requirements into simulation models and workflows.</li>  <li>Optimize designs based on simulation results.</li>  <li>Collaborate with cross-functional engineering teams.</li>  <li>Document methodologies, processes, and outcomes.</li></ul><p><strong>Key Requirements:</strong></p><ul>  <li>Candidates must have a <strong>minimum of 5+ years of experience</strong> working in Aerospace / Flight-Dynamics</li>  <li>Hands-on experience with scripting</li>  <li>Proficient in 2+ of the listed tools: OpenVSP, XFLR5, FlightGear+JSBSim, OpenRocket, QGroundControl</li>  <li>Analytical mindset with strong problem-solving skills</li>  <li>Ability to work independently in a fast-paced environment</li>  <li>Robust engineering problem definition</li>  <li>Analytical validation and sanity checking</li>  <li>Technical documentation</li>  <li>Peer review and quality assessment</li>  <li>Clear communication of assumptions and engineering decisions</li></ul><p><strong>Preferred Qualifications:</strong></p><ul>  <li>MSc in Aerospace Engineering</li>  <li>Prior experience working as Product Owner</li></ul><p><strong>Benefits</strong></p><ul>  <li>Opportunity to work on cutting-edge AI projects.</li>  <li>Competitive compensation.</li>  <li>Flexible working hours and remote work environment.</li></ul><p><strong>Offer Details:</strong></p><ul>  <li><strong>Commitments Required</strong>: 40 hours per week&nbsp;with at least 4 hours PST overlap</li>  <li><strong>Employment type:</strong> Contractor assignment (no medical/paid leave)</li>  <li><strong>Duration of contract:</strong> 5 weeks; imediate onboarding</li></ul>",
-      "oneLinerDescription": "Author and validate aerospace flight tasks using industry-standard simulation tools.",
-      "roleGroup": "Engineering",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-09-10 16:55:59",
-      "jobCode": "Nsd7l-SJ0AQK",
-      "featuredJob": false,
-      "skills": [
-        "Electronic Engineering and Telecommunications"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=105386",
-      "referralUrl": "https://work.turing.com/r/Xg8mncAZuw",
-      "source": "turing"
-    },
-    {
-      "id": 105217,
-      "title": "Javascript Engineer",
-      "description": "<p><strong>About Turing:</strong></p><p>Based in San Francisco, California, Turing is the world\u2019s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprises transform AI from proof of concept into proprietary intelligence with systems that perform reliably, deliver measurable impact, and drive lasting results on the P&amp;L</p><p><br></p><p><strong>Role Overview:</strong></p><p><span style=\"color: rgb(12, 10, 9); font-family: Poppins, sans-serif; font-size: 14px; white-space: pre-wrap;\">We're looking for a Full Stack Developer who's comfortable across the entire stack and knows how to\nwork effectively with modern AI coding tools. Beyond building applications, you'll contribute to AI\nmodel training work \u2014 designing high-quality tasks, running RL training experiments, and measuring\nmodel quality across benchmarks. You'll own work end to end and help us ship quickly without\ncompromising on quality.\nWhat you'll do\n\u2022 Build and maintain web applications end to end, from UI to database.\n\u2022 Develop responsive, accessible front-ends and robust back-end services.\n\u2022 Design and work with relational databases.\n\u2022 Create high-quality training tasks and evaluate task quality across different benchmarks.\n\u2022 Support RL training and AI model training workflows, including data preparation and experiment\niteration.\n\u2022 Use AI tools to ship faster while keeping code and data clean and reliable.\nWhat we're looking for\n\u2022 Solid experience with React, HTML, CSS, and JavaScript.\n\u2022 Back-end development with Node.js.\n\u2022 Hands-on experience with SQLite and PostgreSQL.\n\u2022 Experience with RL training and AI model training workflows.\n\u2022 Experience creating tasks and assessing task quality across different benchmarks.\n\u2022 Proficiency with AI coding tools like Codex, Cursor, and Claude, plus strong prompting skills.\n\u2022 Ability to work independently and turn requirements into working features and datasets.\nNice to have\n\u2022 Familiarity with Python and common ML libraries.\n\u2022 Experience designing evaluations or working with model benchmarking pipelines.\n\u2022 Experience with testing, CI/CD, and version control (Git).\n\u2022 An eye for clean, well-structured, maintainable code and data.</span></p>",
-      "oneLinerDescription": "Build and maintain full-stack web applications while supporting AI model training.",
-      "roleGroup": "Software development",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-09-10 16:02:55",
-      "jobCode": "fNwZrNRLY_Wk",
-      "featuredJob": false,
-      "skills": [
-        "JavaScript",
-        "React"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=105217",
-      "referralUrl": "https://work.turing.com/r/5mJD_Va8Pf",
-      "source": "turing"
     }
   ],
-  "fetched_at": "2026-10-10T16:05:43Z"
+  "fetched_at": "2026-10-10T20:05:27Z"
 }
