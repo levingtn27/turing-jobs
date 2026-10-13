@@ -2773,6 +2773,24 @@
       "source": "turing"
     },
     {
+      "id": 112694,
+      "title": "Medical Expert \u2013 Dermatology",
+      "description": "<p><strong>About Turing:</strong></p><p>Based in San Francisco, California, Turing is the world\u2019s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprises transform AI from proof of concept into proprietary intelligence with systems that perform reliably, deliver measurable impact, and drive lasting results on the P&amp;L.<br></p><p><br></p><p><strong>Role Overview:</strong></p><p>We are seeking experienced in <b>Medical Expert \u2013 Dermatology&nbsp;</b>help evaluate and enhance large language model (LLM) outputs related to nutrition, dietary habits, and healthy eating. You\u2019ll assess AI-generated content for scientific accuracy, safety, and relevance \u2014 contributing to the development of responsible AI in nutrition and wellness. Selected talents will label and evaluate data related to food intake, dietary patterns, and nutrition information to support AI models focused on nutrition tracking, coaching, or research.</p><p><br></p><p><strong>What You'll Do Day-to-Day:</strong></p><ul>  <li>Annotate food items, portion sizes, meal composition, and nutrient content from text, images, or logs.</li>  <li>Classify dietary patterns (e.g., macronutrient balance, meal timing, dietary restrictions/preferences).</li>  <li>Verify accuracy of nutritional data against trusted references (e.g., food composition databases).</li>  <li>Identify and flag mislabeled, inconsistent, or culturally ambiguous food entries.</li>  <li>Apply and help refine annotation guidelines for diverse cuisines and dietary contexts.</li>  <li>Maintain consistency and quality benchmarks across large annotation batches.</li></ul><p><strong>Requirements:</strong></p><ul>  <li>Background in nutrition, dietetics, food science, or a related field.</li>  <li>Familiarity with food composition databases and dietary assessment methods.</li>  <li>Strong attention to detail, especially with portion estimation and food categorization.</li>  <li>Comfort working with annotation tools, spreadsheets, or structured data formats.</li>  <li>Ideal to have a MacBook.</li></ul><p><strong>Preferred Qualifications:</strong></p><ul>  <li>Registered Dietitian (RD) or equivalent credential.</li>  <li>Experience annotating multilingual or multicultural food data.</li>  <li>Prior experience in data labeling for ML/AI applications.</li></ul><p><strong>Perks of Freelancing with Turing:</strong></p><ul>  <li>Work on the cutting edge of AI.</li>  <li>Fully remote and flexible work environment.</li>  <li>Exposure to advanced LLMs and insight into how they\u2019re trained.</li></ul><p><strong>Offer Details:</strong></p><ul>  <li>Engagement type : Contractor assignment/freelancer (no medical/paid leave)</li>  <li>Duration: 8 weeks</li></ul><p><strong>Evaluation Process:</strong></p><ul>  <li>Shortlisting based on qualifications and one round of interview.</li></ul>",
+      "oneLinerDescription": "Evaluate AI-generated nutrition content for accuracy and relevance.",
+      "roleGroup": "Science",
+      "locationType": "remote",
+      "referralReward": null,
+      "createdDate": "2026-10-13 15:19:28",
+      "jobCode": "25u6a6N8GXFq",
+      "featuredJob": false,
+      "skills": [
+        "Biology"
+      ],
+      "plainUrl": "https://work.turing.com/jobs?jobId=112694",
+      "referralUrl": "https://work.turing.com/r/30dxIJM5LW",
+      "source": "turing"
+    },
+    {
       "id": 112337,
       "title": "Domain Expert: Biology",
       "description": "<p><strong>About Turing:</strong></p><p>Based in San Francisco, California, Turing is the world\u2019s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprises transform AI from proof of concept into proprietary intelligence with systems that perform reliably, deliver measurable impact, and drive lasting results on the P&amp;L.<br></p><p><br></p><p><strong>Role Overview:</strong></p><p>We are seeking experienced in&nbsp;<strong>Biology</strong> help evaluate and enhance large language model (LLM) outputs related to nutrition, dietary habits, and healthy eating. You\u2019ll assess AI-generated content for scientific accuracy, safety, and relevance \u2014 contributing to the development of responsible AI in nutrition and wellness. Selected talents will label and evaluate data related to food intake, dietary patterns, and nutrition information to support AI models focused on nutrition tracking, coaching, or research.</p><p><br></p><p><strong>What You'll Do Day-to-Day:</strong></p><ul>  <li>Annotate food items, portion sizes, meal composition, and nutrient content from text, images, or logs.</li>  <li>Classify dietary patterns (e.g., macronutrient balance, meal timing, dietary restrictions/preferences).</li>  <li>Verify accuracy of nutritional data against trusted references (e.g., food composition databases).</li>  <li>Identify and flag mislabeled, inconsistent, or culturally ambiguous food entries.</li>  <li>Apply and help refine annotation guidelines for diverse cuisines and dietary contexts.</li>  <li>Maintain consistency and quality benchmarks across large annotation batches.</li></ul><p><strong>Requirements:</strong></p><ul>  <li>Background in nutrition, dietetics, food science, or a related field.</li>  <li>Familiarity with food composition databases and dietary assessment methods.</li>  <li>Strong attention to detail, especially with portion estimation and food categorization.</li>  <li>Comfort working with annotation tools, spreadsheets, or structured data formats.</li>  <li>Ideal to have a MacBook.</li></ul><p><strong>Preferred Qualifications:</strong></p><ul>  <li>Registered Dietitian (RD) or equivalent credential.</li>  <li>Experience annotating multilingual or multicultural food data.</li>  <li>Prior experience in data labeling for ML/AI applications.</li></ul><p><strong>Perks of Freelancing with Turing:</strong></p><ul>  <li>Work on the cutting edge of AI.</li>  <li>Fully remote and flexible work environment.</li>  <li>Exposure to advanced LLMs and insight into how they\u2019re trained.</li></ul><p><strong>Offer Details:</strong></p><ul>  <li>Engagement type : Contractor assignment/freelancer (no medical/paid leave)</li>  <li>Duration: 8 weeks</li></ul><p><strong>Evaluation Process:</strong></p><ul>  <li>Shortlisting based on qualifications and one round of interview.</li></ul>",
@@ -2905,6 +2923,63 @@
       ],
       "plainUrl": "https://work.turing.com/jobs?jobId=106212",
       "referralUrl": "https://work.turing.com/r/aYrh2sXOtv",
+      "source": "turing"
+    },
+    {
+      "id": 112591,
+      "title": "Senior Power Electronics / Automotive Hardware Design Engineer",
+      "description": "<p><strong>About Turing:<br></strong>Based in San Francisco, California, Turing is the world\u2019s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems.</p><p><br></p><p><strong>Role Overview</strong></p><p>Responsible for developing electronic hardware designs from initial requirements through component selection, schematic design, PCB layout, and design validation, with a focus on power electronics and automotive applications.</p><p><br></p><p><strong>Experience:</strong> 6\u201312 years<br><br></p><p><strong>Key Responsibilities</strong></p><ul>  <li>Analyze product requirements and translate them into hardware specifications.</li>  <li>Develop circuit architectures and select appropriate electronic components based on electrical ratings, performance, reliability, availability, and cost.</li>  <li>Design schematics for DC-DC converters, power supplies, battery management, protection circuits, and automotive power electronics.</li>  <li>Perform component-level calculations and assess voltage, current, power dissipation, thermal performance, and protection requirements.</li>  <li>Develop PCB layouts with appropriate power routing, grounding, thermal management, creepage and clearance, EMI/EMC, and DFM considerations.</li>  <li>Review datasheets, application notes, reference designs, and component libraries.</li>  <li>Perform schematic reviews, PCB design-rule checks, and design verification.</li>  <li>Prepare design documentation, BOMs, and manufacturing outputs.</li></ul><p><strong>Required Skills</strong></p><ul>  <li>Strong knowledge of power electronics and electronic circuit design.</li>  <li>Experience with component selection, schematic capture, and PCB layout tools such as KiCad (mandatory).</li>  <li>Understanding of switching regulators, MOSFETs, gate drivers, protection circuits, and power distribution.</li>  <li>Knowledge of thermal management, EMI/EMC, isolation, and PCB manufacturing requirements.</li></ul><p><strong>Preferred Experience</strong></p><ul>  <li>Automotive electronics, DC-DC converters, battery systems, or power supply design.</li>  <li>Prototype bring-up, debugging, and hardware validation.</li></ul><p><strong>Project Details:</strong></p><ul>  <li><strong>Contract Start Date:</strong> Expected between 21 october - 25 october</li>  <li><strong>Engagement:</strong> 8 weeks (with potential chances of extension)</li>  <li><strong>Commitment </strong>- 40 hours/week</li>  <li><strong>Engagement Type:</strong> Contract</li></ul>",
+      "oneLinerDescription": "Develop electronic hardware designs for automotive power electronics applications.",
+      "roleGroup": "Engineering",
+      "locationType": "remote",
+      "referralReward": null,
+      "createdDate": "2026-10-13 11:53:17",
+      "jobCode": "rr54mYpuVM3g",
+      "featuredJob": false,
+      "skills": [
+        "Electronics",
+        "KiCad"
+      ],
+      "plainUrl": "https://work.turing.com/jobs?jobId=112591",
+      "referralUrl": "https://work.turing.com/r/LWUHq2l575",
+      "source": "turing"
+    },
+    {
+      "id": 112590,
+      "title": "Senior General Hardware Design Engineer \u2013 Analog, Mixed-Signal and RF",
+      "description": "<p><strong>About Turing:<br></strong>Based in San Francisco, California, Turing is the world\u2019s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems.</p><p><br></p><p><strong>Role Overview</strong></p><p>Responsible for end-to-end electronic hardware development, from requirements analysis and circuit design to component selection, schematic capture, PCB layout, and design verification for analog, mixed-signal, sensor, communication, and RF applications.<br></p><p><br></p><p><strong>Experience:</strong> 6\u201312 years</p><p><br></p><p><strong>Key Responsibilities</strong></p><ul>  <li>Interpret functional and electrical requirements and convert them into circuit-level specifications.</li>  <li>Develop circuit architectures and select suitable components using datasheets, application notes, and design calculations.</li>  <li>Design analog, mixed-signal, sensor-interface, signal-conditioning, industrial-interface, and RF circuits.</li>  <li>Develop schematics and associated BOMs, including suitable component alternatives where required.</li>  <li>Design PCB layouts with attention to grounding, noise reduction, signal integrity, impedance control, and electromagnetic compatibility.</li>  <li>Apply suitable placement, routing, return-path, shielding, and isolation practices.</li>  <li>Perform schematic checks, PCB design-rule checks, and design reviews.</li>  <li>Prepare manufacturing documentation and support prototype testing and troubleshooting.</li></ul><p><strong>Required Skills</strong></p><ul>  <li>Strong fundamentals in analog electronics and mixed-signal circuit design.</li>  <li>Experience in component selection, schematic capture, and PCB layout using KiCad (mandatory).</li>  <li>Understanding of operational amplifiers, ADCs/DACs, filters, sensors, communication interfaces, and noise management.</li>  <li>Familiarity with RF layout and controlled-impedance design where applicable.</li></ul><p><strong>Preferred Experience</strong></p><ul>  <li>Wireless communication, RF circuits, industrial electronics, instrumentation, or sensor systems.</li>  <li>Prototype validation, circuit debugging, and performance optimization.</li></ul><p><strong>Project Details:</strong></p><ul>  <li><strong>Contract Start Date:</strong> Expected between 21 october - 25 october</li>  <li><strong>Engagement:</strong> 8 weeks (with potential chances of extension)</li>  <li><strong>Commitment </strong>- 40 hours/week</li>  <li><strong>Engagement Type:</strong> Contract</li></ul>",
+      "oneLinerDescription": "Design and develop analog and RF circuits from concept to prototype.",
+      "roleGroup": "Engineering",
+      "locationType": "remote",
+      "referralReward": null,
+      "createdDate": "2026-10-13 11:43:27",
+      "jobCode": "D0S9LoEveec1",
+      "featuredJob": false,
+      "skills": [
+        "Electronics",
+        "KiCad"
+      ],
+      "plainUrl": "https://work.turing.com/jobs?jobId=112590",
+      "referralUrl": "https://work.turing.com/r/aYfduIwrAO",
+      "source": "turing"
+    },
+    {
+      "id": 112589,
+      "title": "Senior Digital / High-Speed Hardware Design Engineer",
+      "description": "<p><strong>About Turing:<br></strong>Based in San Francisco, California, Turing is the world\u2019s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems.<br><br></p><p><strong>Role Overview</strong></p><p>Responsible for developing digital and high-speed electronic hardware from requirements definition and component selection through schematic design, PCB layout, and design verification.</p><p><br></p><p><strong>Experience:</strong> 6\u201312 years</p><p><br></p><p><strong>Key Responsibilities</strong></p><ul>  <li>Analyze system requirements and develop hardware specifications and circuit architectures.</li>  <li>Select processors, microcontrollers, FPGAs, memories, interface ICs, power-management components, and supporting circuitry.</li>  <li>Design schematics for embedded systems, digital interfaces, communication boards, and high-speed electronic products.</li>  <li>Develop multilayer PCB layouts with appropriate stack-up planning, reference planes, controlled impedance, differential-pair routing, and timing constraints.</li>  <li>Handle BGA placement and escape routing, power distribution, decoupling, and signal-return-path requirements.</li>  <li>Apply design practices for interfaces such as USB, Ethernet, DDR, PCIe, LVDS, and MIPI, as relevant to the design.</li>  <li>Perform schematic reviews, PCB design-rule checks, and design-for-manufacturing assessments.</li>  <li>Prepare BOMs, manufacturing outputs, and design documentation.</li>  <li>Support prototype bring-up, debugging, and design validation.</li></ul><p><strong>Required Skills</strong></p><ul>  <li>Strong digital electronics and embedded hardware fundamentals.</li>  <li>Experience with component selection, schematic capture, and PCB layout using KiCad (mandatory)</li>  <li>Knowledge of multilayer PCB design, stack-up selection, signal integrity, power integrity, and high-speed routing.</li>  <li>Ability to interpret component datasheets and interface specifications and translate them into practical hardware designs.</li></ul><p><strong>Preferred Experience</strong></p><ul>  <li>FPGA, DDR memory, high-speed communication interfaces, or complex embedded systems.</li>  <li>SI/PI analysis, prototype debugging, and hardware validation.</li></ul><p><br></p><p><strong>Project Details:</strong></p><ul>  <li><strong>Contract Start Date:</strong> Expected between 21 october - 25 october</li>  <li><strong>Engagement:</strong> 8 weeks (with potential chances of extension)</li>  <li><strong>Commitment </strong>- 40 hours/week</li>  <li><strong>Engagement Type:</strong> Contract</li></ul>",
+      "oneLinerDescription": "Design and develop high-speed electronic hardware from concept to validation.",
+      "roleGroup": "Engineering",
+      "locationType": "remote",
+      "referralReward": null,
+      "createdDate": "2026-10-13 11:35:36",
+      "jobCode": "dMukznyB0PMP",
+      "featuredJob": false,
+      "skills": [
+        "Electronics",
+        "KiCad"
+      ],
+      "plainUrl": "https://work.turing.com/jobs?jobId=112589",
+      "referralUrl": "https://work.turing.com/r/X8g7NHvivj",
       "source": "turing"
     },
     {
@@ -3198,25 +3273,6 @@
       ],
       "plainUrl": "https://work.turing.com/jobs?jobId=111852",
       "referralUrl": "https://work.turing.com/r/mAUw_LkFl1",
-      "source": "turing"
-    },
-    {
-      "id": 111844,
-      "title": "Business Analyst ",
-      "description": "<p><strong>About Turing:</strong></p><p>Turing\u2019s mission is to <strong>accelerate superintelligence</strong> to drive real economic progress. Headquartered in San Francisco, Turing works with frontier AI labs to generate high-quality data, evaluations, and reinforcement learning environments that improve model capabilities in coding, reasoning, tool use, and multimodality. In coding, Turing is the largest and longest-running data provider in the category. Turing also works with Fortune 500 enterprises across Financial Services, Life Sciences, Healthcare, Retail, Automotive, and CPG to build and deploy end-to-end agentic AI systems inside mission-critical workflows.<br><br><strong>Role Overview:</strong></p><p>Role Overview: &nbsp;In this role, you will be working on projects to help fine-tune large language models (like ChatGPT) using your strong analytical and English comprehension skills. The ideal candidate should have the ability to read, summarize, and break down large content into smaller logical blocks, conduct research online, validate claims made in content through online research, and work with the LLM (Large Language Models) to solve puzzles! The projects will also help you learn how to leverage AI to be a better analyst. This is your chance to future-proof your career in an AI-first world! &nbsp;Your role is critical in helping fine-tune and improve large language models (like gpt), and will make you an expert on how to leverage AI to be a better analyst. This is your chance to future-proof your career in an AI-first world! &nbsp;&nbsp;What does day-to-day look like: &nbsp;You would spend time answering a variety of interesting analytical questions and creating scenarios that can train the LLM models to get better. Here are a couple of examples that models might get wrong, and You would articulate the correct answer &amp; explanation to enable the models to learn: &nbsp;Based on a given distribution of sales by month across locations, could you analyze which location has grown the most? (Hint: what time period should we look at? should we account for sudden variability at the beginning?) In a small town, there are four distinct neighborhoods: Oak, Pine, Maple, and Elm. A postman is assigned to deliver mail and can only deliver to two neighborhoods in one day, with certain rules (e.g. Oak is always visited before Pine). If he delivers to Oak and Elm on the first day, which neighborhoods does the carrier deliver to on the second day? Note: No other prior specialized domain experience is needed. Requirements: &nbsp;English Proficiency: Ability to read and write in English with a high degree of comprehension skills. Analytical Skills: Good research and analytical skills Feedback Skills: Ability to provide constructive feedback and detailed annotations. Creative Thinking: Creative and lateral thinking abilities. Communication: Excellent communication and collaboration skills. Independence: Self-motivated and able to work independently in a remote setting. Technical Setup: Desktop/Laptop set up with a good internet connection. Preferred Qualifications: &nbsp;Bachelors degree or undergraduate in Engineering, Literature, Journalism, Communications, Arts, Statistics, or a related field. We are open to candidates who do not have a Bachelor's degree but have experience in the area. Experience writing professionally (business analysts, research analyst, copywriter, journalist, technical writer, editor, translator, etc.) Understanding of Excel and Google Suite. Proficiency in Data interpretation, Logical reasoning and Basic arithmetic is preferred.<br><br></p><p><u><strong>Notes on Privacy -&nbsp;</strong></u></p><ul>  <li><em>Kindly be informed that the Gemini JSON files are requested </em><u><em>solely to validate your education-related prompts</em></u><em>. You may remove any personal or sensitive information from your Gemini JSON conversation history before submitting it.</em></li>  <li><em>If you are not selected, Turing will delete the data you submit within a reasonable period after the selection process concludes, unless Turing is required to retain it to comply with law, and/or to address fraud or security issues.</em></li>  <li><em>You are also free to redact, obscure, or replace any information from the conversations or summaries that you do not wish to share. If you use fabricated information, please ensure that you replace every instance consistently across all occurrences (e.g., model responses, profiles, personally retrieved results from the Pcontext tool, and saved information).</em><br><br><br><br></li></ul>",
-      "oneLinerDescription": "Analyze and summarize content to enhance large language model performance.",
-      "roleGroup": "Analyst",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-10-09 11:52:14",
-      "jobCode": "xSrAnlMNkG4J",
-      "featuredJob": false,
-      "skills": [
-        "Artificial Intelligence",
-        "Business Analysis"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=111844",
-      "referralUrl": "https://work.turing.com/r/-YaGcCznLQ",
       "source": "turing"
     },
     {
@@ -5015,5 +5071,5 @@
       "source": "turing"
     }
   ],
-  "fetched_at": "2026-10-13T12:06:07Z"
+  "fetched_at": "2026-10-13T16:05:56Z"
 }
