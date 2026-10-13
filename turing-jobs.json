@@ -2890,6 +2890,24 @@
       "source": "turing"
     },
     {
+      "id": 112576,
+      "title": "Supply Coordinator",
+      "description": "<p><strong>About Turing:</strong><br>Turing is one of the world\u2019s fastest-growing AI companies accelerating the advancement and deployment of powerful AI systems. Turing helps customers in two ways: Working with the world\u2019s leading AI labs to advance frontier model capabilities in thinking, reasoning, coding, agentic behavior, multimodality, multilinguality, STEM and frontier knowledge; and leveraging that work to build real-world AI systems that solve mission-critical priorities for companies.</p><p><br></p><p><strong>Role Overview</strong></p><p>Support the daily resource planning and deployment of 1,800+ contributors across multiple AI training projects. Reporting to the Supply Manager, you will allocate contributors, maintain accurate workforce data, monitor capacity, and coordinate with Project, Training, and Onboarding Leads.</p><p><br></p><p><strong>Key Responsibilities</strong></p><ul>  <li>Allocate and move contributors based on project demand.</li>  <li>Coordinate access, training, and instructions for resource movements.</li>  <li>Maintain accurate deployment, status, performance, and capacity data.</li>  <li>Monitor project capacity, throughput, onboarding, and offboarding.</li>  <li>Identify and escalate capacity risks and data issues.</li>  <li>Track resource requests through completion.</li>  <li>Conduct clear shift handoffs and communicate pending actions.</li>  <li>Suggest improvements to resource planning processes and systems.</li></ul><p><strong>Required Qualifications</strong></p><ul>  <li>Experience in operations coordination, workforce management, or resource planning.</li>  <li>Strong spreadsheet, data-management, and organizational skills.</li>  <li>Ability to make accurate, data-driven decisions under pressure.</li>  <li>Clear communication and stakeholder-management skills.</li>  <li>Comfortable working in a fast-paced, shift-based environment.</li>  <li>Experience in AI training or data annotation is preferred.</li></ul><p><strong>Perks of Freelancing With Turing:</strong></p><ul>  <li>Work at the forefront of AI applications in accounting and finance.</li>  <li>Fully remote and flexible work environment.</li>  <li>Opportunity to collaborate on high-impact projects with global reach.</li></ul><p><strong>Offer Details:</strong></p><ol>  <li>This is a project-based role involving a defined number of evaluation tasks.</li>  <li>Each task will involve comparing multiple chatbots and providing a final assessment.</li>  <li><strong>Work Schedule:</strong> <strong>Five</strong> working days per week, including weekends as required, with <strong>two</strong> weekdays off.</li>  <li>Work Hours - <strong>7am-4pm PST</strong></li>  <li><strong>Duration:</strong> 16 weeks.</li></ol>",
+      "oneLinerDescription": "Allocate contributors and manage workforce data for AI training projects.",
+      "roleGroup": "Analyst",
+      "locationType": "remote",
+      "referralReward": null,
+      "createdDate": "2026-10-12 20:09:21",
+      "jobCode": "JnZK9-wc_etM",
+      "featuredJob": false,
+      "skills": [
+        "Business Analysis"
+      ],
+      "plainUrl": "https://work.turing.com/jobs?jobId=112576",
+      "referralUrl": "https://work.turing.com/r/kg_vc3L3Mx",
+      "source": "turing"
+    },
+    {
       "id": 112572,
       "title": "Senior Quality Lead",
       "description": "<p><strong>About Turing:</strong><br>Turing is one of the world\u2019s fastest-growing AI companies accelerating the advancement and deployment of powerful AI systems. Turing helps customers in two ways: Working with the world\u2019s leading AI labs to advance frontier model capabilities in thinking, reasoning, coding, agentic behavior, multimodality, multilinguality, STEM and frontier knowledge; and leveraging that work to build real-world AI systems that solve mission-critical priorities for companies.<br><br><strong>Role Overview</strong></p><p>Serve as the subject-matter expert for complex quality decisions in AI annotation projects. You will guide QA Leads, resolve ambiguous cases, lead calibration efforts, and use audit insights to improve guidelines, training, and overall data quality.</p><p><br></p><p><strong>Key Responsibilities</strong></p><ul>  <li>Convert complex client guidelines into clear internal instructions.</li>  <li>Validate project setup before production begins.</li>  <li>Mentor and calibrate QA Leads and annotation teams.</li>  <li>Lead calibration sessions and maintain reviewer consistency.</li>  <li>Resolve escalated or ambiguous cases and document decisions.</li>  <li>Lead pilot teams testing new task templates.</li>  <li>Identify high-performing reviewers for accelerated review workflows.</li>  <li>Analyze audit results and recommend guideline or training improvements.</li>  <li>Support the Quality Lead when required.</li></ul><p><strong>Required Qualifications</strong></p><ul>  <li>4\u20136 years of overall experience, including 2+ years leading QA reviewers.</li>  <li>Strong experience auditing work against detailed guidelines.</li>  <li>Excellent judgment and decision-making skills for complex cases.</li>  <li>Strong communication and documentation skills.</li>  <li>Experience in annotation, data labeling, AI training data, or multimodal projects is preferred.</li></ul><p><strong>Perks of Freelancing With Turing:</strong></p><ul>  <li>Work at the forefront of AI applications in accounting and finance.</li>  <li>Fully remote and flexible work environment.</li>  <li>Opportunity to collaborate on high-impact projects with global reach.</li></ul><p><strong>Offer Details:</strong></p><ol>  <li>This is a project-based role involving a defined number of evaluation tasks.</li>  <li>Each task will involve comparing multiple chatbots and providing a final assessment.</li>  <li><strong>Work Schedule:</strong> <strong>Five</strong> working days per week, including weekends as required, with <strong>two</strong> weekdays off.</li>  <li>Work Hours - <strong>7am-4pm PST</strong></li>  <li><strong>Duration:</strong> 16 weeks.</li></ol>",
@@ -4960,5 +4978,5 @@
       "source": "turing"
     }
   ],
-  "fetched_at": "2026-10-12T20:05:52Z"
+  "fetched_at": "2026-10-13T00:05:49Z"
 }
