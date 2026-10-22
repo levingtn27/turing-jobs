@@ -4438,45 +4438,7 @@
       "plainUrl": "https://work.turing.com/jobs?jobId=108200",
       "referralUrl": "https://work.turing.com/r/x8_Y3HlZYV",
       "source": "turing"
-    },
-    {
-      "id": 107955,
-      "title": "Software Engineer with Python & Docker experience",
-      "description": "<h1><strong>Urgent hire: ASAP start, 4 week contract. Applications reviewed on a rolling basis, apply early.</strong></h1><p><br></p><h2>Engagement details</h2><ul>  <li><strong>Engagement type:</strong> Contractor, pay per task</li>  <li><strong>Payment:</strong> $300 per approved task</li>  <li><strong>Commitment:</strong> Minimum of 1 completed and approved task per day</li>  <li><strong>No cap on tasks:</strong> Complete as many as you can until the pipeline is exhausted</li>  <li><strong>Duration:</strong> 4 weeks, starting immediately</li></ul><h3><strong>About Turing &amp; Role</strong></h3><p>Turing is one of the world's leading AGI infrastructure companies, working with frontier AI labs to accelerate model development through high-quality training data, evaluations, and engineering talent. We are staffing a frontier AI data initiative building the infrastructure and training data used to develop and evaluate AI agents. You will be assigned to one of two tracks: connectors or tasks.</p><h3><strong>Responsibilities</strong></h3><ul>  <li>Use AI coding agents throughout development, QA, and validation</li>  <li>Participate in onboarding, calibration, and quality reviews; deliver to the quality bar on agreed milestones</li>  <li>Project runs on two tracks:</li>  <li><strong>Connecters track:</strong>    <ul>      <li>Build Python backend applications that replicate existing SaaS tools (Slack, Linear, Jira, Notion, Gmail, wikis)</li>      <li>Test and validate connectors so each behaves faithfully like the system it emulates; extend existing connectors and build new ones within agreed timeframes.</li>    </ul>  </li>  <li><strong>Task track:</strong>    <ul>      <li>Mine data and workflows to identify candidates for long-horizon task development, and author realistic tasks from them</li>      <li>Verify task quality, realism, and correctness through structured QA; write evaluation rubrics defining correct, partially correct, and deficient work</li>    </ul>  </li></ul><h2><strong>Requirements</strong></h2><ul>  <li>3+ years of backend development experience with strong Python (FastAPI, Flask, or Django)</li>  <li>Git, Docker, and pipeline basics, with solid testing and code-quality practices</li>  <li>Experience building scalable backends, REST APIs, and microservices</li>  <li>Daily use of AI coding assistants (Claude Code, Codex, Cursor, GitHub Copilot, or similar)</li></ul>",
-      "oneLinerDescription": "Build Python backend applications that replicate existing SaaS tools.",
-      "roleGroup": "Software development",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-09-22 10:02:13",
-      "jobCode": "f8Mj11ah_eLf",
-      "featuredJob": false,
-      "skills": [
-        "Python",
-        "Docker"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=107955",
-      "referralUrl": "https://work.turing.com/r/oAavp2deMj",
-      "source": "turing"
-    },
-    {
-      "id": 107954,
-      "title": "Software Engineer with Python & Docker experience",
-      "description": "<h1><strong>Urgent hire: ASAP start, 4 week contract. Applications reviewed on a rolling basis, apply early.</strong></h1><p><br></p><h2>Engagement details</h2><ul>  <li><strong>Engagement type:</strong> Contractor, pay per task</li>  <li><strong>Payment:</strong> $300 per approved task</li>  <li><strong>Commitment:</strong> Minimum of 1 completed and approved task per day</li>  <li><strong>No cap on tasks:</strong> Complete as many as you can until the pipeline is exhausted</li>  <li><strong>Duration:</strong> 4 weeks, starting immediately</li></ul><h3><strong>About Turing &amp; Role</strong></h3><p>Turing is one of the world's leading AGI infrastructure companies, working with frontier AI labs to accelerate model development through high-quality training data, evaluations, and engineering talent. We are staffing a frontier AI data initiative building the infrastructure and training data used to develop and evaluate AI agents. You will be assigned to one of two tracks: connectors or tasks.</p><h3><strong>Responsibilities</strong></h3><ul>  <li>Use AI coding agents throughout development, QA, and validation</li>  <li>Participate in onboarding, calibration, and quality reviews; deliver to the quality bar on agreed milestones</li>  <li>Project runs on two tracks:</li>  <li><strong>Connecters track:</strong>    <ul>      <li>Build Python backend applications that replicate existing SaaS tools (Slack, Linear, Jira, Notion, Gmail, wikis)</li>      <li>Test and validate connectors so each behaves faithfully like the system it emulates; extend existing connectors and build new ones within agreed timeframes.</li>    </ul>  </li>  <li><strong>Task track:</strong>    <ul>      <li>Mine data and workflows to identify candidates for long-horizon task development, and author realistic tasks from them</li>      <li>Verify task quality, realism, and correctness through structured QA; write evaluation rubrics defining correct, partially correct, and deficient work</li>    </ul>  </li></ul><h2><strong>Requirements</strong></h2><ul>  <li>3+ years of backend development experience with strong Python (FastAPI, Flask, or Django)</li>  <li>Git, Docker, and pipeline basics, with solid testing and code-quality practices</li>  <li>Experience building scalable backends, REST APIs, and microservices</li>  <li>Daily use of AI coding assistants (Claude Code, Codex, Cursor, GitHub Copilot, or similar)</li></ul>",
-      "oneLinerDescription": "Build Python backend applications to replicate existing SaaS tools.",
-      "roleGroup": "Software development",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-09-22 09:59:59",
-      "jobCode": "qIj_elZZFMFc",
-      "featuredJob": false,
-      "skills": [
-        "Python",
-        "Docker"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=107954",
-      "referralUrl": "https://work.turing.com/r/VdOvB4SLCh",
-      "source": "turing"
     }
   ],
-  "fetched_at": "2026-10-22T08:05:20Z"
+  "fetched_at": "2026-10-22T12:05:19Z"
 }
