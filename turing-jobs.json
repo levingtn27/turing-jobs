@@ -1,6 +1,24 @@
 {
   "jobs": [
     {
+      "id": 112467,
+      "title": "Project Lead - AI Training",
+      "description": "<p><strong>About Turing:</strong><br>Turing is one of the world\u2019s fastest-growing AI companies accelerating the advancement and deployment of powerful AI systems. Turing helps customers in two ways: Working with the world\u2019s leading AI labs to advance frontier model capabilities in thinking, reasoning, coding, agentic behavior, multimodality, multilinguality, STEM and frontier knowledge; and leveraging that work to build real-world AI systems that solve mission-critical priorities for companies.<br><br><strong>Role Overview</strong></p><p>Lead the end-to-end delivery of large-scale multimodal AI annotation projects while managing clients, teams, quality, timelines, and budgets. The role requires making quick, data-driven decisions in a fast-paced environment with tight, often 24-hour, delivery timelines.</p><p><br></p><p><strong>Key Responsibilities</strong></p><ul>  <li>Manage project scope, resources, timelines, budgets, and delivery.</li>  <li>Act as the primary client contact and manage stakeholder communication.</li>  <li>Lead and mentor Team Leads.</li>  <li>Partner with Quality Managers to maintain quality standards.</li>  <li>Monitor throughput, accuracy, and turnaround time.</li>  <li>Identify risks and take corrective action promptly.</li>  <li>Scale teams and improve processes based on project requirements.</li></ul><p><strong>Required Qualifications</strong></p><ul>  <li>7+ years of experience, including 4+ years in team leadership.</li>  <li>Experience managing complex, high-volume projects.</li>  <li>Strong client communication and stakeholder management skills.</li>  <li>Data-driven decision-making and familiarity with performance metrics.</li>  <li>Experience in annotation, data labeling, AI training, RLHF, SFT, or model evaluation is preferred.</li></ul><p><strong>Perks of Freelancing With Turing:</strong></p><ul>  <li>Work at the forefront of AI applications in accounting and finance.</li>  <li>Fully remote and flexible work environment.</li>  <li>Opportunity to collaborate on high-impact projects with global reach.</li></ul><p><strong>Offer Details:</strong></p><ol>  <li>This is a project-based role involving a defined number of evaluation tasks.</li>  <li>Each task will involve comparing multiple chatbots and providing a final assessment.</li>  <li><strong>Work Schedule:</strong> <strong>Five</strong> working days per week, including weekends as required, with <strong>two</strong> weekdays off.</li>  <li>Work Hours - <strong>7am-4pm PST</strong></li>  <li><strong>Duration:</strong> 16 weeks.</li></ol>",
+      "oneLinerDescription": "Lead large-scale AI annotation projects while managing clients and teams.",
+      "roleGroup": "Analyst",
+      "locationType": "remote",
+      "referralReward": 750,
+      "createdDate": "2026-10-12 17:45:49",
+      "jobCode": "sWmJIV9LJMBv",
+      "featuredJob": 1,
+      "skills": [
+        "Business Analysis"
+      ],
+      "plainUrl": "https://work.turing.com/jobs?jobId=112467",
+      "referralUrl": "https://work.turing.com/r/1d5oKTqYDc",
+      "source": "turing"
+    },
+    {
       "id": 112289,
       "title": "Business Analyst - US ",
       "description": "<p><strong>About Turing:</strong><br>Turing is one of the world\u2019s fastest-growing AI companies accelerating the advancement and deployment of powerful AI systems. Turing helps customers in two ways: Working with the world\u2019s leading AI labs to advance frontier model capabilities in thinking, reasoning, coding, agentic behavior, multimodality, multilinguality, STEM and frontier knowledge; and leveraging that work to build real-world AI systems that solve mission-critical priorities for companies.<br><br><strong>Role Overview</strong></p><p>We are looking for a detail-oriented Business Analyst to support a project involving the evaluation of multiple chatbot responses. The role will require analyzing business requirements, comparing chatbot outputs, conducting structured evaluations, and providing final assessments based on defined criteria.</p><p><br></p><p><strong>Key Responsibilities:</strong></p><ul>  <li>Gather, analyze, and document business requirements.</li>  <li>Collaborate with stakeholders to understand business needs and objectives.</li>  <li>Translate business requirements into clear functional specifications.</li>  <li>Analyze workflows, processes, and data to identify gaps and improvement areas.</li>  <li>Create reports, dashboards, process maps, and other documentation.</li>  <li>Support project planning, testing, implementation, and user acceptance testing.</li>  <li>Coordinate with technical and cross-functional teams to ensure successful delivery.</li>  <li>Track project progress, risks, dependencies, and key performance indicators.</li>  <li>Present insights and recommendations to stakeholders.</li></ul><p><strong>Required Qualifications and Skills:</strong></p><ul>  <li>2+ years of experience as a Business Analyst or in a similar role.</li>  <li>Strong analytical, problem-solving, and communication skills.</li>  <li>Experience with requirement-gathering and process-mapping techniques.</li>  <li>Ability to work with cross-functional teams and manage multiple priorities.</li>  <li>Strong attention to detail and documentation skills.</li>  <li>Knowledge of Agile or Scrum methodologies is an advantage.</li></ul><p><strong>Perks of Freelancing With Turing:</strong></p><ul>  <li>Work at the forefront of AI applications in accounting and finance.</li>  <li>Fully remote and flexible work environment.</li>  <li>Opportunity to collaborate on high-impact projects with global reach.</li></ul><p><strong>Offer Details:</strong></p><ol>  <li>This is a project-based role involving a defined number of evaluation tasks.</li>  <li>Each task will involve comparing multiple chatbots and providing a final assessment.</li>  <li><strong>Work Schedule:</strong> <strong>Five</strong> working days per week, including weekends as required, with <strong>two</strong> weekdays off.</li>  <li><strong>Duration:</strong> 16 weeks.</li></ol>",
@@ -71,7 +89,7 @@
       "oneLinerDescription": "Review AI-generated responses for accuracy and personalization using mobile data.",
       "roleGroup": "Other",
       "locationType": "remote",
-      "referralReward": null,
+      "referralReward": 100,
       "createdDate": "2026-10-21 13:28:39",
       "jobCode": "IENd-c4hR6_P",
       "featuredJob": 1,
@@ -163,7 +181,7 @@
       "oneLinerDescription": "Create and edit high-quality 2D and 3D visual assets with precision.",
       "roleGroup": "Design",
       "locationType": "remote",
-      "referralReward": null,
+      "referralReward": 100,
       "createdDate": "2026-08-26 18:46:03",
       "jobCode": "Asc-IMtpP3u1",
       "featuredJob": 1,
@@ -4376,25 +4394,7 @@
       "plainUrl": "https://work.turing.com/jobs?jobId=110134",
       "referralUrl": "https://work.turing.com/r/wP5gXllCz_",
       "source": "turing"
-    },
-    {
-      "id": 109913,
-      "title": "AI Product Manager",
-      "description": "<p><strong>Product Manager (AI &amp; Process Automation)<br>Location:</strong> Remote<br>Open Position <strong>:</strong> 1</p><h2><strong>About the Engagement</strong></h2><p>You will be the sole Product Manager embedded in a cross-functional engineering team building &nbsp;a cloud-agnostic, multi-tenant platform for deploying, certifying, and distributing AI agents at enterprise scale. This is a greenfield platform engineering programme running across three phases over approximately 12 months, delivered for a government-aligned client.</p><h2><strong>What You Will Own</strong></h2><p><strong>Backlog &amp; Prioritisation</strong> Define and maintain the product backlog across all three phases. Translate SOW deliverables into sprint-ready user stories with clear acceptance criteria. Make prioritisation calls when scope, time, and quality are in tension.</p><p><strong>Persona &amp; Requirements Management</strong> The platform serves four distinct personas \u2014 Agent Developer, Platform Engineer, Security/Compliance Officer, and Product Manager (internal). You own the requirements and success criteria for each persona across the portal, evaluation pipeline, certification workflow, and marketplace catalog.</p><p><strong>Stakeholder Management</strong> Primary interface between the Turing delivery team and client product and operations stakeholders. Run structured discovery sessions, demo sprint outcomes, collect feedback, and convert it into actionable backlog items.</p><p><strong>Phase Gate Ownership</strong> Define and enforce exit criteria for each phase. Ensure Phase 1 single-tenant provisioning, Phase 2 multi-tenancy and governance, and Phase 3 certification and marketplace launch are delivered against agreed scope \u2014 not just technically complete but operationally ready.</p><p><strong>Compliance Awareness</strong> Understand the product implications of KSA's PDPL and NDMO framework. Ensure user-facing features \u2014 data handling flows, consent mechanisms, audit trails \u2014 are built with regulatory requirements reflected in acceptance criteria, not retrofitted.</p><h3>Must-Have</h3><ul>  <li>7+ years in product management, with at least 2 years on platform or infrastructure products<br></li>  <li>Experience owning backlogs for technical platforms \u2014 APIs, developer tooling, or data platforms<br></li>  <li>Comfortable writing detailed user stories and acceptance criteria for engineering audiences<br></li>  <li>Strong stakeholder management across engineering, client, and executive layers<br></li>  <li>Experience running agile delivery (Scrum or Kanban) with distributed teams<br></li>  <li>Familiarity with AI/ML concepts \u2014 enough to hold substantive conversations with GenAI and ML engineers<br></li>  <li>Hands-on with Jira, Confluence, or equivalent backlog and documentation tooling</li>  <li>Good experience in marketplace(AI/Non-AI)/Platform(AI/Non-AI)<br></li></ul><h3>Nice-to-Have</h3><ul>  <li>Prior experience on agent platforms, LLM tooling, or AI marketplace products<br></li>  <li>Exposure to KSA or broader GCC market engagements<br></li>  <li>Understanding of data privacy regulations (PDPL, GDPR, or equivalent)<br></li>  <li>Experience working on multi-tenant SaaS or PaaS platforms<br></li>  <li>Familiarity with SOW-driven delivery models and commercial milestone structures<br></li></ul>",
-      "oneLinerDescription": "Define and prioritize product backlogs for a multi-tenant AI platform.",
-      "roleGroup": "Business",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-09-30 17:04:16",
-      "jobCode": "bPqULxrBoFJs",
-      "featuredJob": false,
-      "skills": [
-        "Product Management"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=109913",
-      "referralUrl": "https://work.turing.com/r/u0py7VrbrO",
-      "source": "turing"
     }
   ],
-  "fetched_at": "2026-10-30T16:05:00Z"
+  "fetched_at": "2026-10-30T20:05:07Z"
 }
