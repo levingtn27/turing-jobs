@@ -4241,28 +4241,7 @@
       "plainUrl": "https://work.turing.com/jobs?jobId=110806",
       "referralUrl": "https://work.turing.com/r/IfzAPyatc2",
       "source": "turing"
-    },
-    {
-      "id": 110318,
-      "title": "Senior Software Engineers",
-      "description": "<p><strong>Role Summary</strong><br>We are looking for a Software Engineer with hands-on experience in full-stack development and some exposure to DevOps practices. You will contribute to building and operating applications that support critical engineering workflows. This role is ideal for someone who can independently deliver features, understands how systems run in production, and is looking to grow into owning services end-to-end.<br><br><strong>What You'll Do</strong><br>Design, develop, and maintain full-stack applications using React, TypeScript, and Python Build and enhance backend APIs and services for scalability and performance Collaborate with engineers and stakeholders to define and deliver technical solutions Participate in code reviews and contribute to improving engineering standards Debug and resolve issues across frontend, backend, and deployment environments Work with cloud platforms to deploy and operate applications Contribute to CI/CD pipelines and improve development and release workflows Help improve observability, monitoring, and reliability of applications<br><br><strong>Qualifications </strong><br>Bachelor's degree in Computer Science, Software Engineering, or related field 7+ years of experience in software development Strong programming skills in JavaScript/TypeScript and Python Experience building web applications using modern frameworks (e.g., React) Understanding of REST APIs, system design fundamentals, and application architecture Experience with Git and collaborative development workflows<br><br><strong>Preferred Qualifications</strong><br>Experience with backend frameworks (e.g., FastAPI, Flask, Django) Hands-on experience with cloud platforms such as AWS, Azure, or GCP Experience with containerization (Docker) and familiarity with Kubernetes Exposure to CI/CD pipelines and DevOps practices Understanding of distributed systems, asynchronous processing, or event-driven architecture Familiarity with observability and monitoring tools (e.g., Grafana, Datadog, Splunk) Experience using AI-assisted coding tools (e.g., GitHub Copilot, Cursor) effectively Experience working with data pipelines, APIs, or engineering workflows is a plus</p>",
-      "oneLinerDescription": "Build and maintain full-stack applications using React, TypeScript, and Python.",
-      "roleGroup": "Cloud & Infrastructure",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-10-02 12:30:21",
-      "jobCode": "mfU2mDy-U0Wl",
-      "featuredJob": false,
-      "skills": [
-        "Python",
-        "React",
-        "Typescript",
-        "JavaScript"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=110318",
-      "referralUrl": "https://work.turing.com/r/_BTOV6AqYp",
-      "source": "turing"
     }
   ],
-  "fetched_at": "2026-11-01T12:04:57Z"
+  "fetched_at": "2026-11-01T16:04:54Z"
 }
