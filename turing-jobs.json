@@ -5810,28 +5810,7 @@
       "plainUrl": "https://work.turing.com/jobs?jobId=112290",
       "referralUrl": "https://work.turing.com/r/ZwsTq74_Qi",
       "source": "turing"
-    },
-    {
-      "id": 112076,
-      "title": "Medical Experts - Medical Doctor USA (MD, MBBS, MBChB, or Medical Diploma)",
-      "description": "<p><strong>About Turing:</strong></p><p>Based in San Francisco, California, Turing is the world\u2019s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprises transform AI from proof of concept into proprietary intelligence with systems that perform reliably, deliver measurable impact, and drive lasting results on the P&amp;L.<br></p><p><br></p><p><strong>Role Overview:</strong></p><p>We are seeking experienced <strong>US-based Medical Doctors</strong> (MD) or international equivalent (MBBS, MBChB, Medical Diploma, etc.) to help evaluate and enhance large language model (LLM) outputs in the medical domain. You\u2019ll assess AI-generated clinical content for medical accuracy, safety, and relevance \u2014 contributing to the development of responsible AI in healthcare.<br><br></p><p><strong>What You'll Do Day-to-Day:</strong></p><ul>  <li>Review AI-generated medical text for accuracy, harmfulness, and completeness, with focus on medical field.</li>  <li>Evaluate diagnoses, treatment plans, and summaries for medical cases.</li>  <li>Provide expert feedback to improve medical integrity and safety of LLM outputs.</li>  <li>Collaborate with AI researchers and clinicians to align model performance with evidence-based medical standards.</li></ul><p><strong>Requirements:</strong></p><ul>  <li><strong>Based in the US (mandatory).</strong></li>  <li>Medical Doctor (MD) or international equivalent (MBBS, MBChB, Medical Diploma, etc.)</li>  <li>Must be fully licensed and practicing medicine within the<strong> USA</strong>.</li>  <li>Minimum <strong>1 year post-residency</strong> experience practicing as a Medical Doctor / General Physician (no specific specialization required).</li>  <li>Strong attention to detail</li>  <li>Technically savvy\u2014able to navigate web-based annotation platforms, use image zoom/tools, follow detailed guidelines, and accurately complete structured questionnaires.</li>  <li>Experience in medical content review, clinical research, annotation or AI/ML evaluation preferred.</li></ul><p><strong>Perks of Freelancing with Turing:</strong></p><ul>  <li>Work on the cutting edge of AI.</li>  <li>Fully remote and flexible work environment.</li>  <li>Exposure to advanced LLMs and insight into how they\u2019re trained.</li></ul><p><strong>Offer Details:</strong></p><ul>  <li><strong>Engagement type:</strong> Contractor assignment/freelancer (no medical/paid leave)</li>  <li><strong>Commitment Required:</strong> Flexible and work at your own pace, at least 20 hours/week.&nbsp;</li>  <li><strong>Duration:</strong> 12 weeks</li>  <li><strong>Selected talents are required to take a client certification after onboarding, paid by Turing.</strong></li></ul>",
-      "oneLinerDescription": "Evaluate AI-generated medical content for accuracy and safety.",
-      "roleGroup": "Healthcare & Medical",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-10-09 18:05:20",
-      "jobCode": "Qg3SUBddoXry",
-      "featuredJob": false,
-      "skills": [
-        "General Medicine",
-        "Critical Care Medicine",
-        "Community Medicine",
-        "Family Medicine"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=112076",
-      "referralUrl": "https://work.turing.com/r/XrBwFQLQnO",
-      "source": "turing"
     }
   ],
-  "fetched_at": "2026-11-08T16:06:16Z"
+  "fetched_at": "2026-11-08T20:06:21Z"
 }
