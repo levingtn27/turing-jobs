@@ -4812,7 +4812,7 @@
       "oneLinerDescription": "Evaluate AI assistant responses based on user experience and quality.",
       "roleGroup": "Other",
       "locationType": "remote",
-      "referralReward": null,
+      "referralReward": 100,
       "createdDate": "2026-11-10 19:17:58",
       "jobCode": "kSRwfNCiGxr7",
       "featuredJob": false,
@@ -5837,26 +5837,7 @@
       "plainUrl": "https://work.turing.com/jobs?jobId=114154",
       "referralUrl": "https://work.turing.com/r/lvg3ejvgZA",
       "source": "turing"
-    },
-    {
-      "id": 114106,
-      "title": "Pod Lead \u2014 Life Sciences & Medicine (Terminal Bench Science)",
-      "description": "<p><strong>About Turing<br></strong>Turing is one of the world's leading AGI infrastructure companies, working with frontier AI labs to accelerate model development through high-quality training data, evaluations, and engineering talent.&nbsp;</p><p><strong>Engagement Details</strong></p><ul>  <li>Commitments Required: At least 6 hours per day and a minimum of 40 hours per week, with a 4-hour overlap with PST.</li>  <li>Employment Type: Contractor assignment (no medical/paid leave)</li>  <li>Duration of Contract: 5 weeks (expected start date is next week)</li></ul><p><strong>About the Role &nbsp;<br></strong>We are seeking an experienced Life Sciences or Medicine expert to lead a pod of trainers building realistic, terminal-based scientific and technical tasks for Terminal Bench Science. You will review every task your trainers produce for scientific correctness, reproducibility, data compliance, and grader reliability, and coach trainers to consistently deliver high-quality, challenging tasks. &nbsp;<br><strong>Key Responsibilities</strong></p><ul>  <li>Review trainer tasks end to end, including task statements, biological and clinical datasets, reference files, pipelines, environments, reference solutions, and automated tests.</li>  <li>Verify that tasks reflect authentic research or clinical analysis workflows and require genuine multi-step scientific reasoning.</li>  <li>Check that tools, reference genomes, annotation versions, databases, and dependencies are pinned and that pipelines are reproducible.</li>  <li>Validate scientific correctness, including genome builds, coordinate conventions, normalization, batch-effect handling, statistical assumptions, multiple-testing correction, units, dosing conventions, imaging orientation and spacing, and random-seed control.</li>  <li>Ensure graders verify substantive outputs such as variant calls, differential expression results, cluster assignments, binding or structural metrics, survival estimates, model performance, segmentation accuracy, and pharmacokinetic parameters rather than formatting.</li>  <li>Ensure tolerances account for legitimate stochastic and numerical variation without accepting incorrect analyses.</li>  <li>Ensure tasks cannot be gamed through hard-coded outputs, reading test files, or bypassing the intended analysis.</li>  <li>Confirm that all data is synthetic, public, appropriately licensed, and de-identified, with no protected health information or restricted-access data.</li>  <li>Screen tasks for biosafety and dual-use concerns.</li>  <li>Escalate content involving dangerous pathogens, toxins, or enhancement of harmful biological capabilities.</li>  <li>Provide clear, actionable written feedback and track revisions through closure.</li>  <li>Onboard and mentor trainers.</li>  <li>Allocate work, track quality and throughput, and escalate blockers.</li>  <li>Maintain pod documentation covering guidelines, recurring issues, and exemplary tasks.</li></ul><p>Select effortGPT-5.6 LunaMediumNoneMinimalLightMediumHighExtra HighMaxUltraPersistent</p><p>To pick up a draggable item, press the space bar. &nbsp;&nbsp;&nbsp;&nbsp;While dragging, use the arrow keys to move the item. &nbsp;&nbsp;&nbsp;&nbsp;Press space again to drop the item in its new position, or press escape to cancel.<br><br><strong>Required Qualifications</strong></p><ul>  <li>Ph.D., M.D., M.D.-Ph.D., postdoctoral experience, or equivalent advanced experience in a life science, biomedical, or medical field with a substantial computational component.</li>  <li>Strong programming skills in Python or R, plus Bash, with Linux and terminal proficiency.</li>  <li>Hands-on experience with bioinformatics pipelines, computational biology, biostatistics, medical imaging analysis, or clinical data analysis.</li>  <li>Strong understanding of experimental design, statistical inference, and reproducibility in biomedical research.</li>  <li>Proven experience reviewing code, analyses, manuscripts, or research outputs.</li>  <li>Experience mentoring or leading small technical or research teams.</li>  <li>Excellent written communication skills for providing precise, constructive feedback.</li></ul><p><strong>Preferred Qualifications</strong></p><ul>  <li>Familiarity with tools such as samtools, bcftools, GATK, BWA, STAR, Salmon, DESeq2, edgeR, Seurat, Scanpy, Biopython, Bioconductor, Nextflow, or Snakemake.</li>  <li>Familiarity with RDKit, OpenMM, GROMACS, AutoDock Vina, PyMOL, or Biopython structure tools.</li>  <li>Familiarity with medical imaging and clinical tools such as pydicom, nibabel, SimpleITK, MONAI, FSL, lifelines, statsmodels, or FHIR data formats.</li>  <li>Familiarity with Docker, Conda, Git, CI systems, automated testing, and HPC environments.</li>  <li>Experience designing benchmarks, analysis challenges, or computational evaluations.<br><br><strong>Bonus Points</strong></li>  <li>Experience evaluating AI coding or terminal agents.</li>  <li>Experience with data governance, IRB processes, or biosafety review.</li>  <li>Industry experience in biotech, pharma, clinical research, or health technology.</li>  <li>Publications or open-source contributions in computational biology, bioinformatics, or biomedical informatics.</li>  <li>Prior experience in AI training or evaluation programs. &nbsp;<br><br></li></ul>",
-      "oneLinerDescription": "Review and validate scientific tasks for accuracy and reproducibility.",
-      "roleGroup": "Science",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-10-16 17:22:12",
-      "jobCode": "FVbWDJzERsvv",
-      "featuredJob": false,
-      "skills": [
-        "PhD Biology",
-        "Bioinformatician / Computational Biologist"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=114106",
-      "referralUrl": "https://work.turing.com/r/xjIHNuqn39",
-      "source": "turing"
     }
   ],
-  "fetched_at": "2026-11-15T16:05:54Z"
+  "fetched_at": "2026-11-15T20:06:13Z"
 }
