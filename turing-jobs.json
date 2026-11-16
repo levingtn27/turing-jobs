@@ -4419,7 +4419,7 @@
       "oneLinerDescription": "Review Japanese patient histories and evaluate AI-generated clinical plans.",
       "roleGroup": "Healthcare & Medical",
       "locationType": "remote",
-      "referralReward": null,
+      "referralReward": 100,
       "createdDate": "2026-11-13 14:40:25",
       "jobCode": "rTdMaEV-KDQj",
       "featuredJob": false,
@@ -5819,25 +5819,7 @@
       "plainUrl": "https://work.turing.com/jobs?jobId=114375",
       "referralUrl": "https://work.turing.com/r/8DbriaPGxg",
       "source": "turing"
-    },
-    {
-      "id": 114154,
-      "title": "Code Reviewer - Python",
-      "description": "<h3 style=\"border-color: rgb(226, 232, 240); outline-color: oklab(0.710665 -0.00799343 -0.03417 / 0.5);\">About Turing</h3><p style=\"border-color: rgb(226, 232, 240); outline-color: oklab(0.710665 -0.00799343 -0.03417 / 0.5);\">Turing is one of the world\u2019s leading AGI infrastructure companies, working with frontier AI labs to accelerate model development through high-quality training data, evaluations, and engineering talent.</p><p><br></p><p><strong style=\"font-size: 0.9375rem;\">About the Role: </strong><span style=\"font-size: 0.9375rem;\">We are looking for experienced software engineers (tech lead level) who are familiar with high-quality public GitHub repositories and can contribute to this project. This role involves hands-on software engineering work, including development environment automation, issue triaging, and evaluating test coverage and quality</span></p><p><br></p><p><strong style=\"font-size: 0.9375rem;\">What does day-to-day look like</strong><span style=\"font-size: 0.9375rem;\">:</span></p><ul>  <li>Analyze and triage GitHub issues across trending open-source libraries.</li>  <li>Set up and configure code repositories, including Dockerization and environment setup.</li>  <li>Evaluating unit test coverage and quality.</li>  <li>Modify and run codebases locally to assess LLM performance in bug-fixing scenarios.</li>  <li>Collaborate with researchers to design and identify repositories and issues that are challenging for LLMs.</li></ul><p><strong>Required Skills:</strong></p><ul>  <li>Minimum 2+ years of overall experience</li>  <li>Strong experience with at least one of the following languages: &nbsp;Python</li>  <li>Proficiency with Git, Docker, and basic software pipeline setup.</li>  <li>Ability to understand and navigate complex codebases.</li>  <li>Comfortable running, modifying, and testing real-world projects locally.</li>  <li>Experience contributing to or evaluating open-source projects is a plus.</li></ul><p><strong>Nice to Have:</strong></p><ul>  <li>Previous participation in LLM research or evaluation projects.</li>  <li>Experience building or testing developer tools or automation agents.</li></ul><p><strong>Perks of Freelancing With Turing:</strong></p><ul>  <li>Work in a fully remote environment.</li>  <li>Opportunity to work on cutting-edge AI projects with leading LLM companies.</li></ul><p><strong>Offer Details:</strong></p><ul>  <li><strong>Commitments Required</strong>: Minimum 40 hours per week with overlap of 4 hours with PST.&nbsp;</li>  <li><strong>Employment type &nbsp;</strong>: Contractor assignment (no medical/paid leave)</li>  <li><strong>Duration of contract </strong>: 4 weeks; [expected start date is next week]</li>  <li><strong>Payment</strong>: $25 per approved task</li>  <li><strong>Location </strong>: India, Pakistan, Nigeria, Egypt, Ghana, Bangladesh, Turkey, Mexico</li></ul><p><strong>Evaluation Process (approximately 75 mins) :</strong></p><ul>  <li>Assessment based review</li></ul>",
-      "oneLinerDescription": "Analyze and triage GitHub issues for Python projects.",
-      "roleGroup": "Software development",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-10-17 19:52:11",
-      "jobCode": "wPQLWjZ8otYn",
-      "featuredJob": false,
-      "skills": [
-        "Python"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=114154",
-      "referralUrl": "https://work.turing.com/r/lvg3ejvgZA",
-      "source": "turing"
     }
   ],
-  "fetched_at": "2026-11-16T16:06:24Z"
+  "fetched_at": "2026-11-16T20:06:16Z"
 }
