@@ -5975,26 +5975,7 @@
       "plainUrl": "https://work.turing.com/jobs?jobId=114391",
       "referralUrl": "https://work.turing.com/r/Kl3f8Up_7d",
       "source": "turing"
-    },
-    {
-      "id": 114375,
-      "title": "Life Sciences Subject Matter Expert ",
-      "description": "<p><strong>About Turing</strong><br>Turing is one of the world's leading AGI infrastructure companies, working with frontier AI labs to accelerate model development through high-quality training data, evaluations, and engineering talent.&nbsp;</p><p><br></p><p><strong>About the Role</strong><br>We are seeking Life Sciences Subject Matter Experts to develop advanced scientific reasoning tasks for LifeSciBench. Unlike coding-focused benchmarks, this role emphasizes deep biological knowledge, scientific interpretation, and rigorous reasoning. You will create challenging questions based on realistic scientific scenarios, experimental results, biological data, figures, literature-style evidence, and research problems.&nbsp;</p><p>This is a non-code benchmark: tasks are not executed, and no programming is required. Who this is for. Life scientists who want to author rigorous scientific-reasoning problems with objectively defensible answers \u2014 no coding involved. If your strength is interpreting experiments, spotting ambiguity, and constructing questions that reward synthesis over recall, this is the fit. Who this isn't for. If you want to build tasks where agents write and execute code, see GeneBench Pro (genomics), Agentic Life Sciences (broad life-sciences workflows), or Terminal Bench Science (cross-STEM terminal tasks).</p><p><br></p><p><strong>Key Responsibilities&nbsp;</strong></p><ul>  <li>Design novel, challenging life sciences problems requiring advanced scientific reasoning.&nbsp;</li>  <li>Create tasks grounded in realistic research scenarios, experiments, biological datasets, figures, sequences, structures, or scientific evidence.&nbsp;</li>  <li>Develop clear questions with well-defined and objectively defensible answers.&nbsp;</li>  <li>Write rigorous expert reference answers explaining the scientific reasoning required.&nbsp;</li>  <li>Ensure tasks require synthesis and interpretation rather than simple factual recall.&nbsp;</li>  <li>Validate all biological claims, calculations, assumptions, and conclusions.&nbsp;</li>  <li>Identify ambiguity, alternative scientifically valid interpretations, and insufficiently constrained questions.&nbsp;</li>  <li>Create tasks capable of distinguishing frontier AI models based on scientific reasoning ability.&nbsp;</li>  <li>Ensure outputs are clearly documented and reproducible where applicable. \u2022 Maintain high quality and throughput while incorporating reviewer feedback. Note on inputs: Tasks may involve scientific text, structured data, sequences, experimental results, and other scientific evidence depending on project requirements.&nbsp;</li></ul><p><strong>Qualifications Required&nbsp;</strong></p><ul>  <li>Ph.D., postdoctoral experience, or equivalent advanced research experience in the Life Sciences.&nbsp;</li>  <li>Strong expertise in at least one biological discipline.&nbsp;</li>  <li>Demonstrated ability to interpret scientific experiments, data, and research findings. Relevant backgrounds include&nbsp;</li>  <li>Molecular Biology&nbsp;</li>  <li>Genetics and Genomics&nbsp;</li>  <li>Cell Biology&nbsp;</li>  <li>Biochemistry&nbsp;</li>  <li>Neuroscience&nbsp;</li>  <li>Microbiology&nbsp;</li>  <li>Immunology&nbsp;</li>  <li>Evolutionary Biology&nbsp;</li>  <li>Ecology&nbsp;</li>  <li>Structural Biology&nbsp;</li>  <li>Biophysics&nbsp;</li>  <li>Developmental Biology&nbsp;</li>  <li>Cancer Biology&nbsp;</li>  <li>Pharmacology or related disciplines&nbsp;</li></ul><p><strong>Preferred&nbsp;</strong></p><ul>  <li>Experience designing graduate-level scientific problems or assessments. <br>Strong familiarity with experimental design and interpretation.&nbsp;</li>  <li>Experience reviewing scientific manuscripts or research.&nbsp;</li>  <li>Ability to translate complex scientific concepts into precise, self-contained problems.&nbsp;</li>  <li>Experience evaluating LLM-generated scientific responses.&nbsp;</li></ul><p><strong>Bonus Points For&nbsp;</strong></p><ul>  <li>Publications in strong peer-reviewed journals or conferences.&nbsp;</li>  <li>Teaching or mentoring experience at the graduate level.&nbsp;</li>  <li>Experience with AI/ML evaluation datasets</li></ul>",
-      "oneLinerDescription": "Create advanced life sciences problems that require deep scientific reasoning.",
-      "roleGroup": "Science",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-10-19 11:02:30",
-      "jobCode": "BMyjLVvbLFEr",
-      "featuredJob": false,
-      "skills": [
-        "PhD Biology",
-        "Bioinformatician / Computational Biologist"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=114375",
-      "referralUrl": "https://work.turing.com/r/8DbriaPGxg",
-      "source": "turing"
     }
   ],
-  "fetched_at": "2026-11-18T08:06:40Z"
+  "fetched_at": "2026-11-18T12:06:37Z"
 }
