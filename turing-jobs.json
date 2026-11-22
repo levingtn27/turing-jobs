@@ -6008,25 +6008,7 @@
       "plainUrl": "https://work.turing.com/jobs?jobId=116163",
       "referralUrl": "https://work.turing.com/r/wSg2cV6KhH",
       "source": "turing"
-    },
-    {
-      "id": 115943,
-      "title": "Quality Analyst-Multimodality",
-      "description": "<p><strong>About Turing</strong></p><p><br></p><p>Turing is one of the world\u2019s fastest-growing AI companies, accelerating the advancement and deployment of powerful AI systems.</p><p>Turing helps customers in two ways: Working with the world\u2019s leading AI labs to advance frontier model capabilities in thinking, reasoning, coding, agentic behavior, multimodality, multilinguality, STEM, and frontier knowledge; and leveraging that work to build real-world AI systems that solve mission-critical priorities for companies.</p><p><br></p><p><strong>Role Overview</strong></p><p><br></p><p>In this role, you will be working on projects to help fine-tune large language models (like ChatGPT) using your strong analytical and English comprehension skills. The ideal candidate should have the ability to read, summarize, review and break down large content into smaller logical blocks, conduct research online, validate claims made in content through online research, and work with the LLM (Large Language Models) to solve puzzles!&nbsp;</p><p>The projects will also help you learn how to leverage AI to be a better analyst. This is your chance to future-proof your career in an AI-first world! &nbsp;</p><p>Your role is critical in helping fine-tune and improve large language models (like gpt), and will make you an expert on how to leverage AI to be a better analyst. This is your chance to future-proof your career in an AI-first world! &nbsp;&nbsp;</p><p><br></p><p><strong>What does day-to-day look like: &nbsp;</strong></p><p>You would spend time answering a variety of interesting analytical questions and creating scenarios that can train the LLM models to get better. Here are a couple of examples which models might get wrong and you would have to give the correct answer and explanation to enable the models to learn:</p><ul>  <li>Based on a given distribution of sales by month across locations, could you analyze which location has grown the most? (Hint: what time period should we look at? should we account for sudden variability at the beginning?)</li>  <li>In a small town, there are four distinct neighborhoods: Oak, Pine, Maple, and Elm. A postman is assigned to deliver mail and can only deliver to two neighborhoods in one day, with certain rules (e.g. Oak is always visited before Pine). If he delivers to Oak and Elm on the first day, which neighborhoods does the carrier deliver to on the second day?<br><em>Note: No other prior specialized domain experience is needed.</em></li></ul><p><strong>Requirements: &nbsp;</strong></p><p><br></p><p><strong>English Proficiency: </strong>Ability to read and write in English with a high degree of comprehension skills.&nbsp;</p><p><strong>Analytical Skills:</strong> Good research and analytical skills&nbsp;</p><p><strong>Feedback Skills:&nbsp;</strong>Ability to provide constructive feedback and detailed annotations.&nbsp;</p><p><strong>Creative Thinking:</strong> Creative and lateral thinking abilities.&nbsp;</p><p><strong>Communication:</strong> Excellent communication and collaboration skills.&nbsp;</p><p><strong>Independence: </strong>Self-motivated and able to work independently in a remote setting.&nbsp;</p><p><strong>Technical Setup</strong>: Desktop/Laptop set up with a good internet connection.&nbsp;</p><p><br></p><p><strong>Preferred Qualifications:</strong>&nbsp;</p><ul>  <li>Bachelors degree or undergraduate in Engineering, Literature, Journalism, Communications, Arts, Statistics, or a related field.&nbsp;</li>  <li>Proven experience of 2+ yrs in Quality Assurance, data annotation, or content review workflows Strong attention to detail, especially with text accuracy and formatting validation</li>  <li>Experience writing professionally (business analysts, research analyst, copywriter, journalist, technical writer, editor, translator, etc.)&nbsp;</li>  <li>Understanding of Excel and Google Suite.</li>  <li>Proficiency in Data interpretation, Logical reasoning and Basic arithmetic is preferred.</li></ul><p><br></p><p><strong>Benefits</strong></p><ul>  <li>Opportunity to work on cutting-edge AI projects.</li>  <li>Competitive compensation.</li>  <li>Flexible working hours and remote work environment.</li></ul><p><strong>Application Process</strong></p><ul>  <li>Shortlisted candidates will complete an assessment.</li>  <li>Once the assessment is cleared, candidates can start.</li></ul>",
-      "oneLinerDescription": "Analyze and improve large language models through detailed content evaluation.",
-      "roleGroup": "Analyst",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-10-23 13:34:48",
-      "jobCode": "Lw5WaCeT7Wra",
-      "featuredJob": false,
-      "skills": [
-        "Business Analysis"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=115943",
-      "referralUrl": "https://work.turing.com/r/Y0bhj0CYcf",
-      "source": "turing"
     }
   ],
-  "fetched_at": "2026-11-22T12:06:40Z"
+  "fetched_at": "2026-11-22T16:06:30Z"
 }
