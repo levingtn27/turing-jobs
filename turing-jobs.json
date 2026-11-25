@@ -6085,25 +6085,7 @@
       "plainUrl": "https://work.turing.com/jobs?jobId=116327",
       "referralUrl": "https://work.turing.com/r/ulp6o92GY7",
       "source": "turing"
-    },
-    {
-      "id": 116163,
-      "title": "AI Trainer - Data Annotation Specialist (Safety)",
-      "description": "<p><strong>About Turing:</strong></p><p>Turing is a leading AI company that accelerates the development of advanced AI systems. Turing works with frontier AI labs and global enterprises to improve AI capabilities in reasoning, safety, coding, tool use, multimodality, and real-world workflows.</p><p><br></p><p><strong>Role Overview:</strong></p><p>We are looking for <strong>Data Annotators to evaluate AI-generated responses against defined safety policies.</strong> This is a non-coding role for candidates with strong communication skills, native-level English proficiency, excellent attention to detail, close-reading ability, sound judgment, and the ability to write clear, concise evaluations.</p><p><br><strong>Key Responsibilities:</strong></p><ul>  <li>Evaluate AI-generated responses against defined safety policies and sub-policies.</li>  <li>Review single-turn and multi-turn conversations for safety, accuracy, and policy compliance.</li>  <li>Assign consistent 1\u20135 ratings based on established evaluation criteria.</li>  <li>Write clear, concise, and evidence-based justifications for each rating.</li>  <li>Identify subtle safety concerns involving self-harm, violence, abuse, and other sensitive topics.<br></li></ul><p><strong>Requirements:</strong> &nbsp;</p><ul>  <li>Strong interest in data annotation and AI evaluation with excellent English proficiency.</li>  <li>Excellent reading comprehension and close-reading skills.</li>  <li>Ability to write clear, concise, and objective evaluations.</li>  <li>Excellent attention to detail and awareness of subtle nuances.</li>  <li>Strong judgment and ability to follow detailed safety policies.</li>  <li>Ability to work accurately under time constraints.</li>  <li>Comfort with reviewing sensitive content involving self-harm, violence, and abuse.</li>  <li>Familiarity with US-specific references, systems, and terminology.</li></ul><p><strong>Preferred Qualifications:</strong> &nbsp;</p><ul>  <li>Experience in data annotation, content moderation, or policy review.</li>  <li>Background in trust and safety, AI training, or response evaluation is preferred.</li>  <li>Experience in editorial review, proofreading, compliance, or quality assurance.</li>  <li>Familiarity with structured rating systems and evaluation rubrics.</li>  <li>Experience reviewing single-turn and multi-turn conversations</li></ul><p><strong>Application Process:</strong></p><ul>  <li>Submit an application with an updated resume and LinkedIn profile link.</li>  <li>Talents will be selected based on internal team's and client's review</li></ul><p><strong>Project Details:</strong></p><ul>  <li>Pay per task</li>  <li>AHT per task - 75 minutes (approx)<br></li></ul>",
-      "oneLinerDescription": "Evaluate AI responses for safety and compliance with policies.",
-      "roleGroup": "Other",
-      "locationType": "remote",
-      "referralReward": null,
-      "createdDate": "2026-10-26 11:26:04",
-      "jobCode": "oZrhhBBXUwjQ",
-      "featuredJob": false,
-      "skills": [
-        "Analysis"
-      ],
-      "plainUrl": "https://work.turing.com/jobs?jobId=116163",
-      "referralUrl": "https://work.turing.com/r/wSg2cV6KhH",
-      "source": "turing"
     }
   ],
-  "fetched_at": "2026-11-25T08:06:29Z"
+  "fetched_at": "2026-11-25T12:06:36Z"
 }
